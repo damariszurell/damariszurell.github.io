@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damaris Zurell research on Damaris Zurell research</title>
+    <link>https://damariszurell.github.io/</link>
+    <description>Recent content in Damaris Zurell research on Damaris Zurell research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017-2018 Damaris Zurell</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RangeDyna</title>
+      <link>https://damariszurell.github.io/project/rangedyna/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/rangedyna/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Moving from pattern towards process for improved forecasts of species range dynamics&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This exchange project (2019-2020) is supported by the DAAD (Grant to Damaris Zurell) and the University of Melbourne (Grant to Gurutzeta Guillera-Arroita)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Forecasts of where species are likely to occur in the future are important for informed species management. Predictions help in conserving populations that may otherwise be lost, or detecting invasive or harmful species that might otherwise be overlooked. However, the correlative species distribution models (SDMs) most commonly used to generate these forecasts have well-known limitations that may make them unreliable. Using both real data (Swiss breeding bird survey records for &amp;gt;170 species) and simulated datasets, we will test whether alternative models that explicitly describe dynamics and incorporate key ecological processes can improve forecasts of species ranges. We will first focus on occupancy dynamic models (ODMs), which show much promise but have not been tested against other approaches. We will then extend our analyses to consider more complex models that require additional ecological knowledge (e.g. information about dispersal, biotic interactions and/or demography). Outputs from correlative SDMs are currently used to inform a range of decisions, including whether to list a species as globally threatened. We will assess outputs from alternative models, asking whether any are better able to correctly guide these decisions. We will provide practical guidelines for methods that prove suitable, making them accessible for typical users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gurutzeta Guillera-Arroita, Jane Elith, Natalie Briscoe, Univ. Melbourne, Australia&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://damariszurell.github.io/extras/publication_list/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
+      <description>
+
+&lt;p&gt;ResearcherID &lt;a href=&#34;http://www.researcherid.com/rid/E-2439-2012&#34; target=&#34;_blank&#34;&gt;E-2439-2012&lt;/a&gt;. You can also find me on &lt;a href=&#34;https://www.researchgate.net/profile/Damaris_Zurell&#34; target=&#34;_blank&#34;&gt;ResearchGate&lt;/a&gt; and &lt;a href=&#34;http://scholar.google.com/citations?user=uCc4NDEAAAAJ&amp;amp;hl=de&#34; target=&#34;_blank&#34;&gt;GoogleScholar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#papers&#34;&gt;Journal articles&lt;/a&gt; - &lt;a href=&#34;#books&#34;&gt;Book chapters&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;papers&#34;&gt;Peer-reviewed journal articles&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;#press&#34;&gt;in press&lt;/a&gt; - &lt;a href=&#34;#pub-2018&#34;&gt;2018&lt;/a&gt; - &lt;a href=&#34;#pub-2017&#34;&gt;2017&lt;/a&gt; - &lt;a href=&#34;#pub-2016&#34;&gt;2016&lt;/a&gt; - &lt;a href=&#34;#pub-2015&#34;&gt;2015&lt;/a&gt; - &lt;a href=&#34;#pub-2014&#34;&gt;2014&lt;/a&gt; - &lt;a href=&#34;#pub-2013&#34;&gt;2013&lt;/a&gt; - &lt;a href=&#34;#pub-2012&#34;&gt;2012&lt;/a&gt; - &lt;a href=&#34;#pub-pre2012&#34;&gt;pre 2012&lt;/a&gt; - &lt;a href=&#34;#pub-submitted&#34;&gt;submitted&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;press&#34;&gt;in press&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;26 &amp;ndash; Gallien L, Thornhill AH, &lt;strong&gt;Zurell D&lt;/strong&gt;, Miller JT, Richardson DM (in press) Global predictors of alien plant establishment success: combining niche and trait proxies. Proceedings of the Royal Society B.&lt;/li&gt;
+&lt;li&gt;25 &amp;ndash; Peterson ATP et al. (in press) Open Access Solutions for Biodiversity Journals: Don’t Replace One Problem with Another. Diversity and Distributions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-2018&#34;&gt;2018&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;24 &amp;ndash;   Gallien L, &lt;strong&gt;Zurell D&lt;/strong&gt; &amp;amp; Zimmermann NE (2018) Frequency and intensity of facilitation reveal opposing patterns along a stress gradient. Ecology and Evolution 8: 2171-2181. &lt;a href=&#34;http://dx.doi.org/10.1002/ece3.3855&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Gallien_etal_EcoEvo_2018.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;23 &amp;ndash; Rotics S, Kaatz M, Turjeman S, &lt;strong&gt;Zurell D&lt;/strong&gt;, Wikelski M, Sapir N, Eggers U, Fiedler W, Jeltsch F, Nathan R (2018) Early arrival to breeding grounds: causes, costs and a trade-off with overwintering latitude. Journal of Animal Ecology 87: 16271638. &lt;a href=&#34;https://doi.org/10.1111/1365-2656.12898&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;mailto:damaris.zurell@hu-berlin.de?subject=Manuscript request&amp;amp;body=I would like to request a copy of your paper Rotics et al. 2018 in J Anim Ecol.&#34; target=&#34;_blank&#34;&gt;Request pdf copy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;22 &amp;ndash; Schaefer M, Menz S, Jeltsch F, &lt;strong&gt;Zurell D&lt;/strong&gt; (2018) sOAR: A tool for modelling optimal animal life-history strategies in cyclic environments. Ecography 41: 551-557. &lt;a href=&#34;http://dx.doi.org/10.1111/ecog.03328&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Schaefer_etal_Ecography_2017.pdf&#34;&gt;preprint&lt;/a&gt; &amp;ndash; &lt;a href=&#34;mailto:damaris.zurell@hu-berlin.de?subject=Manuscript request&amp;amp;body=I would like to request a copy of your paper Schaefer et al. 2018 in Ecography.&#34; target=&#34;_blank&#34;&gt;Request pdf copy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;21 &amp;ndash; Yates KL, Bouchet PJ, Caley MJ, Mengersen K, Randin CF, Parnell S, Fielding AH, Bamford, AJ, Ban S, Barbosa AM, Dormann CF, Elith J, Embling CB, Ervin GN, Fisher R, Gould S, Graf RF, Gregr EJ, Halpin P, Heikkinen RK, Heinänen S, Jones AR, Krishnakumar PK, Lauria V, Lozano-Montes H, Mannocci L, Mellin C, Mesgaran MB, Moreno-Amat E, Mormede S, Nowaczek E, Oppel S, Crespo GO, Peterson AT, Rappaciuolo G, Roberts JJ, Ross RE, Scales KL, Schoeman D, Snelgrove P, Sundblad G, Thuiller W, Torres LG, Verbruggen H, Wang L, Wenger S, Whittingham MJ, Zharikov Y, &lt;strong&gt;Zurell D&lt;/strong&gt; &amp;amp; Sequeira AMM (2018) Outstanding challenges in the transferability of ecological models. Trends in Ecology and Evolution 33: 790-802. &lt;a href=&#34;https://doi.org/10.1016/j.tree.2018.08.001&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Yates_etal_TREE_2018.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;20 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Gallien L, Graham CH, Zimmermann NE (2018) Do long-distance migratory birds track their niche through seasons? Journal of Biogeography 45: 1459-1468. &lt;em&gt;Editor&amp;rsquo;s choice.&lt;/em&gt; &lt;a href=&#34;https://doi.org/10.1111/jbi.13351&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/preprint_Zurell_etal_JBI_2018.pdf&#34;&gt;preprint&lt;/a&gt; &amp;ndash; &lt;a href=&#34;mailto:damaris.zurell@hu-berlin.de?subject=Manuscript request&amp;amp;body=I would like to request a copy of your paper Zurell et al. 2018 in JBI.&#34; target=&#34;_blank&#34;&gt;Request pdf copy&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_JBI_2018_SuppInfo.pdf&#34;&gt;SuppInfo&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/jbi13351-sup-0002-TableS2.csv&#34;&gt;SuppData&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;19 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Graham CH, Gallien L, Thuiller W, Zimmermann NE (2018) Long-distance migratory birds threatened by multiple independent risks from global change. Nature Climate Change 8: 992-996. &lt;a href=&#34;http://dx.doi.org/10.1038/s41558-018-0312-9&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://rdcu.be/9Pio&#34; target=&#34;_blank&#34;&gt;Read full text online&lt;/a&gt; &amp;ndash; &lt;a href=&#34;mailto:damaris.zurell@hu-berlin.de?subject=Manuscript request&amp;amp;body=I would like to request a copy of your paper Zurell et al. 2018 in NClim.&#34; target=&#34;_blank&#34;&gt;Request pdf copy&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_NClim_2018_ESM.pdf&#34;&gt;SuppInfo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;18 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Pollock LJ, Thuiller W (2018) Do joint species distribution models reliably detect interspecific interactions from co-occurrence data in homogenous environments? Ecography 41: 1812-1819. &lt;a href=&#34;http://dx.doi.org/10.1111/ecog.03315&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/preprint_Zurell_etal_Ecography_2018.pdf&#34;&gt;preprint&lt;/a&gt; &amp;ndash; &lt;a href=&#34;mailto:damaris.zurell@hu-berlin.de?subject=Manuscript request&amp;amp;body=I would like to request a copy of your paper Zurell et al. 2018 in Ecography.&#34; target=&#34;_blank&#34;&gt;Request pdf copy&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Ecography_2018_Supp.pdf&#34;&gt;SuppInfo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;17 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, von Wehrden H, Rotics S, Kaatz M, Groß H, Schlag L, Schäfer M, Sapir N, Turjeman S, Wikelski M, Nathan R, Jeltsch F (2018) Home range size and resource use of breeding and non-breeding white storks along a land use gradient. Frontiers in Ecology and Evolution 6: 79. &lt;a href=&#34;https://doi.org/10.3389/fevo.2018.00079&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_FrontEcoEvo_2018.pdf&#34;&gt;pdf&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_FrontEcoEvo_2018_Supp.pdf&#34;&gt;SuppInfo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-2017&#34;&gt;2017&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;16 &amp;ndash; Rotics S, Turjeman S, Kaatz M, Resheff Y S, &lt;strong&gt;Zurell D&lt;/strong&gt;, Sapir N, Eggers U, Fiedler W, Flack A, Jeltsch F, Wikelski M, Nathan R (2017) Wintering in Europe instead of Africa enhances juvenile survival in a long-distance migrant. Animal Behaviour 126: 79-88. &lt;a href=&#34;http://dx.doi.org/10.1016/j.anbehav.2017.01.016&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Rotics_etal_AnimBehav_2017.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;15 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2017) Integrating demography, dispersal and interspecific interactions into bird distribution models. Journal of Avian Biology 48: 1505-1516. &lt;a href=&#34;http://dx.doi.org/10.1111/jav.01225&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_JAvianBiol_2017.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-2016&#34;&gt;2016&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;14 &amp;ndash; Rotics S, Kaatz M, Resheff YS, Feldman S, &lt;strong&gt;Zurell D&lt;/strong&gt;, Sapir N, Eggers U, Flack A, Fiedler W, Jeltsch F, Wikelski M, Nathan R (2016) The challenges of the first migration: movement and behavior of juvenile versus adult white storks with insights regarding juvenile mortality. Journal of Animal Ecology 85: 938-947. &lt;em&gt;Highly Cited Paper by Essential Science Indicators&lt;/em&gt; &lt;a href=&#34;http://dx.doi.org/10.1111/1365-2656.12525&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Rotics_etal_JAnimEcol_2016.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;13 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Thuiller W, Pagel J, Cabral JS, Münkemüller T, Gravel D, Dullinger S, Normand S, Schiffers KH, Moore KA &amp;amp; Zimmermann NE (2016) Benchmarking novel approaches for modelling species range dynamics. Global Change Biology 22: 2651-2264. &lt;a href=&#34;http://dx.doi.org/10.1111/gcb.13251&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_GCB_2016.pdf&#34;&gt;pdf&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_GCB_2016_SuppInfo.pdf&#34;&gt;SuppInfo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;12 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE, Sattler T, Nobis MP &amp;amp; Schröder B (2016) The effect of functional traits on the prediction accuracy of species richness models. Diversity and Distributions 22: 905-917. &lt;a href=&#34;http://dx.doi.org/10.1111/ddi.12450&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_DDI_2016.pdf&#34;&gt;pdf&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_DDI_2016_SuppInfo.pdf&#34;&gt;SuppInfo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-2015&#34;&gt;2015&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;11 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Eggers U, Kaatz M, Rotics S, Sapir N, Wikelski M, Nathan R, Jeltsch F (2015) Individual-based modelling of resource competition to predict density-dependent population dynamics: a case study with white storks. Oikos 124: 319-330. &lt;a href=&#34;http://dx.doi.org/10.1111/oik.01294&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Oikos_2015.pdf&#34;&gt;pdf&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Oikos_2015_SuppInfo.pdf&#34;&gt;SuppInfo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-2014&#34;&gt;2014&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;10 &amp;ndash; Bocedi G, &lt;strong&gt;Zurell D&lt;/strong&gt;, Reineking B, Travis JMJ (2014) Mechanistic modelling of animal dispersal offers new insights into range expansion dynamics across fragmented landscapes. Ecography 37: 1240-1253. &lt;a href=&#34;http://dx.doi.org/10.1111/ecog.01041&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Bocedi_etal_Ecography_2014.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;9 &amp;ndash; Thuiller W, Münkemüller T, Schiffers KH, Georges D, Dullinger S, Eckhart VM, Edwards TC, Gravel D, Kunstler G, Merow C, Moore K, Piedallu C, Vissault S, Zimmermann NE, &lt;strong&gt;Zurell D&lt;/strong&gt;, Schurr FM (2014) Does probability of occurrence relate to population dynamics? Ecography 37: 1155-1166. &lt;a href=&#34;http://dx.doi.org/10.1111/ecog.00836&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Thuiller_etal_Ecography_2014.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-2013&#34;&gt;2013&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;8 &amp;ndash; Dormann CF, Elith J, Bacher S, Buchmann CM, Carl G, Carré G, García Marquéz JR, Gruber B, Lafourcade B, Leitão PJ, Münkemüller T, McClean C, Osborne P, Reineking B, Schröder B, Skidmore A, &lt;strong&gt;Zurell D&lt;/strong&gt;, Lautenbach S (2013) Collinearity: a review of methods to deal with it and a simulation study evaluating their performance. Ecography 36: 27-46. &lt;em&gt;Editor&amp;rsquo;s choice. Highly Cited Paper by Essential Science Indicators&lt;/em&gt; &lt;a href=&#34;http://dx.doi.org/10.1111/j.1600-0587.2012.07348.x&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Dormann_etal_Ecography_2013.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;7 &amp;ndash; Jeltsch F, Blaum N, Brose U, Chipperfield JD, Clough Y, Farwig N, Geissler K, Graham CH, Grimm V, Hickler T, Huth A, May F, Meyer KM, Pagel J,  Reineking B, Rillig MC, Shea K, Schurr FM, Schröder B, Tielbörger K,  Weiss L, Wiegand K, Wiegand T, Wirth C, &lt;strong&gt;Zurell D&lt;/strong&gt; (2013) How can we bring together empiricists and modellers in functional biodiversity research? Basic and Applied Ecology 14: 93-101. &lt;a href=&#34;http://dx.doi.org/10.1016/j.baae.2013.01.001&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Jeltsch_etal_BAE_2013.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;6 &amp;ndash; Jeltsch F, Bonte D, Pe&amp;rsquo;er G, Reineking B, Leimgruber P, Balkenhol N, Schröder B, Buchmann CM, Mueller T, Blaum N, &lt;strong&gt;Zurell D&lt;/strong&gt;, Böhning-Gaese K, Wiegand T, Eccard JA, Hofer H, Reeg J, Eggers U, Bauer S (2013) Integrating movement ecology with biodiversity research - exploring new avenues to address spatiotemporal biodiversity dynamics. Movement Ecology 1:6. &lt;a href=&#34;http://dx.doi.org/10.1186/2051-3933-1-6&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Jeltsch_etal_MovementEcol_2013.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-2012&#34;&gt;2012&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;5 &amp;ndash; Gutt J, &lt;strong&gt;Zurell D&lt;/strong&gt;, Bracegridle TJ, Cheung W, Clark MS, Convey P, Danis B, David B, De Broyer C, di Prisco G, Griffiths H, Laffont R, Peck L, Pierrat B, Riddle MJ, Saucede T, Turner J, Verde C, Wang Z, Grimm V (2012) Correlative and dynamic species distribution modelling for ecological predictions in the Antarctic: a cross-disciplinary concept. Polar Research 31: 11091. &lt;a href=&#34;http://dx.doi.org/10.3402/polar.v31i0.11091&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Gutt_etal_PolarResearch_2012.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;4 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Elith J, Schröder B (2012) Predicting to new environments: tools for visualising model behaviour and impacts on mapped distributions. Diversity and Distributions 18:628-634. &lt;a href=&#34;http://dx.doi.org/10.1111/j.1472-4642.2012.00887.x&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_DivDistr_2012.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;3 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Grimm V, Rossmanith E, Zbinden N, Zimmermann NE, Schröder B (2012) Uncertainty in predictions of range dynamics: black grouse climbing the Swiss Alps. Ecography 35: 590-603. &lt;a href=&#34;http://dx.doi.org/10.1111/j.1600-0587.2011.07200.x&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Ecography_2012.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-pre2012&#34;&gt;pre 2012&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Berger U, Cabral JS, Jeltsch F, Meynard CN, Münkemüller T, Nehrbass N, Pagel J, Reineking B, Schröder B, Grimm V (2010) The virtual ecologist approach: simulating data and observers. Oikos 119: 622-635. &lt;a href=&#34;http://www3.interscience.wiley.com/journal/123304444/abstract&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Oikos_2010.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Jeltsch F, Dormann CF, Schröder B (2009) Static species distribution models in dynamically changing systems: how good can predictions really be? Ecography 32: 733-744. &lt;a href=&#34;http://www3.interscience.wiley.com/journal/122562280/abstract&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Ecography_2009.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;pub-submitted&#34;&gt;Submitted/in revision&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;vii &amp;ndash; Pollock LJ, Morris WK, Münkemüller T, Vesk PA, &lt;strong&gt;Zurell D&lt;/strong&gt;, Thuiller W (submitted) Detecting negative (but not positive) interactions from co-occurrence and environment data with Joint Species Distribution Models.&lt;/li&gt;
+&lt;li&gt;vi &amp;ndash; Beckman N, Aslan C, Rogers H, Kogan O, Bronstein J, Bullock J, Hartig F, HilleRisLambers J, Zhou Y, &lt;strong&gt;Zurell D&lt;/strong&gt;, Brodie J, Bruna E, Cantrell S, Decker R, Effiom E, Fricke E, Gurski K, Hastings A, Johnson J, Loiselle B, Miriti M, Neubert M, Pejchar L, Poulsen J, Pufal G, Razafindratsima O, Sandor M, Shea K, Schreiber S, Schupp E, Snell R, Strickland C, Zambrano J (submitted) Advancing an interdisciplinary framework to study seed dispersal ecology.&lt;/li&gt;
+&lt;li&gt;v &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE, Gross H, Baltensweiler A, Sattler T, Wüest R (submitted) Testing species assemblage predictions from stacked and joint species distribution models within the SESAM framework.&lt;/li&gt;
+&lt;li&gt;iv &amp;ndash; Schaefer M,  &lt;strong&gt;Zurell D&lt;/strong&gt;, Menz S, Rotics S, Flack A, Fiedler W, Kaatz M, Eggers U, Sapir N, Nathan R, Wikelski M, Jeltsch F (submitted) Global change impacts on behavioural strategies of migratory birds: Lessons from a full annual cycle model.&lt;/li&gt;
+&lt;li&gt;iii &amp;ndash; Turjeman S, Eggers U, Rotics S, Fiedler W, Centeno-Cuadros A, Kaatz M, &lt;strong&gt;Zurell D&lt;/strong&gt;, Jeltsch F, Wikelski M, Nathan R (submitted) Combining genetics, GPS tracking and ringing data to study nest-site and mate fidelity.&lt;/li&gt;
+&lt;li&gt;ii &amp;ndash; Aslan C, Beckman N, Rogers H, Bronstein J, &lt;strong&gt;Zurell D&lt;/strong&gt;, Hartig F, Shea K, Pejchar L, Neubert M, Poulsen J, HilleRisLambers J, Miriti M, Loiselle B, Effiom E, Zambrano J, Schupp E, Pufal G, Johnson J, Bullock J, Brodie J, Bruna E, Cantrell S, Decker R, Fricke E, Gurski K, Hastings A, Kogan O, Powell J, Razafindratsima O, Sandor M, Schreiber S, Snell R, Strickland C, Zhou J (submitted) Employing plant functional groups to advance seed dispersal ecology and conservation.&lt;/li&gt;
+&lt;li&gt;i &amp;ndash; Johnson J, Cantrell S, Cosner C, Hartig F, Hastings A, Rogers H, Schupp E, Shea K, Teller B, Yu X, &lt;strong&gt;Zurell D&lt;/strong&gt;, Pufal G (submitted) Phenotypic plasticity, rapid evolution and epigenetic effects in seed dispersal affect the response of plants to global change.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h4 id=&#34;books&#34;&gt;Book chapters&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Engler JO (2019) Ecological niche modelling. In Dunn PO, Møller AP (eds) Effects of climate change on birds. Oxford University Press.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Join the lab</title>
+      <link>https://damariszurell.github.io/extras/joinlab/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/joinlab/</guid>
+      <description>
+
+&lt;p&gt;Job openings, Bachelor and Master theses &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#jobs&#34;&gt;Job openings&lt;/a&gt; &amp;ndash; &lt;a href=&#34;#funding&#34;&gt;Funding opportunities&lt;/a&gt; &amp;ndash; &lt;a href=&#34;#theses&#34;&gt;Thesis topics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://damariszurell.github.io/img/research_pics.png&#34; alt=&#34;birds&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you would like to do a postdoc, PhD, Master or Bachelor with me, please do not hesitate to contact me. Some topics and anticipated job openings are listed below, but own ideas are always welcome and I am happy to discuss funding possibilities.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;jobs&#34;&gt;Job openings&lt;/h3&gt;
+
+&lt;p&gt;We have no current job openings &amp;hellip;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;funding&#34;&gt;Funding opportunities for postdoc or PhD work&lt;/h3&gt;
+
+&lt;p&gt;I am happy to discuss funding opportunities for individual postdoc or PhD projects.&lt;/p&gt;
+
+&lt;p&gt;To get a first overview, here are some links to funding bodies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For students/postdocs currently based outside Germany:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&amp;amp;origin=&amp;amp;subjectGrps=&amp;amp;daad=1&amp;amp;q=&amp;amp;page=1&amp;amp;back=1&#34; target=&#34;_blank&#34;&gt;DAAD&lt;/a&gt; &amp;ndash; The German Academic Exchange Service provides a PhD/Postdoc scholarship data base.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.humboldt-foundation.de/web/programmes-by-target-group.html&#34; target=&#34;_blank&#34;&gt;AvH&lt;/a&gt; &amp;ndash; The Alexander-von-Humboldt foundation offers different postdoctoral fellowships to come to Germany.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.einsteinfoundation.de/en/programmes/einstein-international-postdoctoral-fellow/&#34; target=&#34;_blank&#34;&gt;Einstein&lt;/a&gt; &amp;ndash; The Einstein Foundation offers special postdoctoral fellowships for Berlin-based working groups.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hu-berlin.de/en/research/szf/wiss_nachwuchs/wn_nafoeg_html?set_language=en&#34; target=&#34;_blank&#34;&gt;Elsa-Neumann&lt;/a&gt; &amp;ndash; The city of Berlin offers PhD scholarships.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dfg.de/en/research_funding/programmes/individual/research_grants/index.html&#34; target=&#34;_blank&#34;&gt;DFG&lt;/a&gt; &amp;ndash; The German Science Foundation offers various research grants.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ec.europa.eu/programmes/horizon2020/en/h2020-section/marie-sklodowska-curie-actions&#34; target=&#34;_blank&#34;&gt;H2020&lt;/a&gt; &amp;ndash; The EU offers individual postdoctoral fellowships within the Marie Skłodowska-Curie actions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;For students/postdocs currently based in Germany:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dfg.de/en/research_funding/programmes/individual/research_grants/index.html&#34; target=&#34;_blank&#34;&gt;DFG&lt;/a&gt; &amp;ndash; The German Science Foundation offers various research grants.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dbu.de/2821.html&#34; target=&#34;_blank&#34;&gt;DBU&lt;/a&gt; &amp;ndash; The German Federal Environmental Foundation offers PhD scholarships.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hu-berlin.de/en/research/szf/wiss_nachwuchs/wn_nafoeg_html?set_language=en&#34; target=&#34;_blank&#34;&gt;Elsa-Neumann&lt;/a&gt; &amp;ndash; The city of Berlin offers PhD scholarships.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;theses&#34;&gt;Bachelor and Master theses&lt;/h3&gt;
+
+&lt;p&gt;Here are some potential thesis topics. Also own suggestions are welcome. Please regard the attributes Master and Bachelor thesis as a suggestion - topics, scope and tasks are negotiable and up to your creativity. I also indicate the skills you will acquire during the thesis - previous knowledge is welcome but not mandatory.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;bachelor-master-thesis-ecosystem-functions-provided-by-animals-and-potential-disruptions-under-global-change&#34;&gt;Bachelor/Master thesis: Ecosystem functions provided by animals and potential disruptions under global change&lt;/h5&gt;
+
+&lt;p&gt;Animals provide important ecosystem functions to each other. For example, ants and birds disperse seeds and nutrients, and (wild)bees and butterflies pollinate plants. Some of these mutualistic interactions may be highly specialised, for example when one plant species is only pollinated by one insect species, other interactions may be more generalistic. Here, we will compile a list of important ecosystem functions by animals, and assess the vulnerability of these under global environmental change.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Skills learned: Literature search, meta-analyses, species distribution modelling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;master-thesis-life-history-strategies-in-birds-traits-as-proxy-of-intra-and-interspecific-interactions&#34;&gt;Master thesis: Life history strategies in birds: traits as proxy of intra- and interspecific interactions&lt;/h5&gt;
+
+&lt;p&gt;Life history emerges from natural selection. Individuals have to trade-off costs and benefits of specific actions, how much they invest in reproduction, survival, maintenance and defence. Here, we will analyse correlations between life-history traits in birds (e.g. body size, clutch size, diet) and their competitive behaviours towards conspecifics and heterospecifics. This will help us to better understand how trait syndromes may mediate interspecific interactions. We will analyse Swiss breeding birds for which we already have extensive data on foraging and habitat traits available. These trait data will be extended by information on territorial/competitive behaviours that will be obtained from literature research.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Skills learned: R programming, statistical analyses, trait analyses&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;master-thesis-improving-winter-occurrence-data-for-migratory-birds&#34;&gt;Master thesis: Improving winter occurrence data for migratory birds&lt;/h5&gt;
+
+&lt;p&gt;Migratory birds use distant habitats during breeding and overwintering. Existing range maps on wintering habitats are usually less accurate than the range maps of the breeding season. Here, we will use citizen-science based occurrence records from eBird to improve distribution maps of migratory birds, focussing on long-distance migrants breeding in Europe and overwintering in Africa. Species distribution models will be estimated using range maps and using eBird data, and inference will be compared.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Skills learned: R programming, GIS analyses, species distribution modelling&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;master-thesis-integrating-consumer-resource-interactions-in-bird-species-distribution-models&#34;&gt;Master thesis: Integrating consumer-resource interactions in bird species distribution models&lt;/h5&gt;
+
+&lt;p&gt;Birds (and other animals) are not only influenced by abiotic conditions such as climate but also by the amount of available resources. Often, resources such as the favourite food plants are included in the models only indirectly through accounting for major habitat associations or correlations with climate. Here, we will build a hierarchical model in which the occurrence of the bird and the occurrence of its food plants is modelled simultaneously. This will allow disentangling the abiotic effects on food plants from the abiotic effects on consumer survival. I would suggest using black grouse as study species, but this is not mandatory.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Skills learned: R programming, GIS analyses, species distribution modelling, Bayesian statistics&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Damaris Zurell</title>
+      <link>https://damariszurell.github.io/extras/damaris_cv/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/damaris_cv/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;#contact&#34;&gt;Contact&lt;/a&gt; - &lt;a href=&#34;#education&#34;&gt;Education&lt;/a&gt; - &lt;a href=&#34;#career&#34;&gt;Career&lt;/a&gt; - &lt;a href=&#34;#projects&#34;&gt;Projects&lt;/a&gt; - &lt;a href=&#34;#awards&#34;&gt;Awards&lt;/a&gt; - &lt;a href=&#34;#activities&#34;&gt;Professional activities&lt;/a&gt; - &lt;a href=&#34;#member&#34;&gt;Memberships&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://damariszurell.github.io/img/DZ_main.jpeg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;contact&#34;&gt;Contact details&lt;/h5&gt;
+
+&lt;p&gt;Dr. Damaris Zurell&lt;/p&gt;
+
+&lt;p&gt;Geography Department | Humboldt-Universität zu Berlin&lt;/p&gt;
+
+&lt;p&gt;Unter den Linden 6 | D-10099 Berlin | Germany&lt;/p&gt;
+
+&lt;p&gt;Office: Rudower Chaussee 16 | D-12489 Berlin | Room 1.209&lt;/p&gt;
+
+&lt;p&gt;Phone: +49 30 2093 6839&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.geographie.hu-berlin.de/de/Members/1690642&#34; target=&#34;_blank&#34;&gt;My institutional website&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;education&#34;&gt;Education&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2011&lt;/strong&gt; &amp;ndash; PhD in Geoecology, University of Potsdam, Inst. of Earth and Environmental Sciences&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2007&lt;/strong&gt; &amp;ndash; Diplom (M.Sc.) in Geoecology, University of Potsdam, Inst. of Geoecology&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;career&#34;&gt;Career&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;since 2018&lt;/strong&gt; &amp;ndash; Junior reseach group leader (DFG Emmy Noether programme), Humboldt-Universität zu Berlin, Geography Department&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2016 - 2018&lt;/strong&gt; &amp;ndash; Scientific staff member, Swiss Federal Research Institute WSL, Dept. Landscape Dynamics&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2014 - 2016&lt;/strong&gt; &amp;ndash; Postdoc, Swiss Federal Research Institute WSL, Dept. Landscape Dynamics&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;2011 - 2014&lt;/strong&gt; &amp;ndash; PostDoc, University of Potsdam, Inst. for Biochemistry and Biology&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;projects&#34;&gt;Projects&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2018-2020&lt;/strong&gt; &amp;ndash; Interdisciplinary project funded by Swiss Data Science Center SDSC, &amp;ldquo;SPEEDMIND - Improving species biodiversity analyses and citizen science feedback through mining data&amp;rdquo; (WSL share CHF 200&amp;rsquo;000, Damaris is co-PI)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018-2023&lt;/strong&gt; &amp;ndash; DFG Emmy Noether junior research group, “BIOPIC – Disentangling the effects of demography, dispersal and biotic interactions in population and community response to global change” (€ 1’007’919)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2016-2019&lt;/strong&gt; &amp;ndash; SNF Ambizione Fellowship, “SCODA – Scaling from individual interactions to community dynamics in avian assemblages” (CHF 492’204)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2014-2016&lt;/strong&gt; &amp;ndash; EU-FP7 Marie Curie Intra-European Fellowship (IEF), “MATES – Understanding and predicting multispecies assemblages and interactions in space and time” (€ 208’000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2014&lt;/strong&gt; &amp;ndash; University of Potsdam Individual Postdoc Grant “Bridge Programme” (€ 8’250)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2007-2010&lt;/strong&gt; &amp;ndash; PhD Scholarship by the Potsdam Graduate School on Ecological Modelling UPGradE (€ 45’600)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;awards&#34;&gt;Awards&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2012&lt;/strong&gt; &amp;ndash; Junior Scientist publication award by Leibniz-Kolleg Potsdam, Germany (€ 1’250)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2008&lt;/strong&gt; &amp;ndash; Junior Scientist Award by the Federal State of Brandenburg, Germany, Category Graduates (€ 5’000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2008&lt;/strong&gt; &amp;ndash; Jacob-Jacobi Award (best degree of the academic year) by the Faculty of Mathematics and Natural Sciences, University of Potsdam, Germany (€ 500)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2007&lt;/strong&gt; &amp;ndash; Diplom/ Master Award by the Ecological Society of Germany, Austria and Switzerland (GfÖ) (€ 2’500)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h5 id=&#34;activities&#34;&gt;Professional activities&lt;/h5&gt;
+
+&lt;h6 id=&#34;boards&#34;&gt;Boards&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PCI Ecology - recommender since 2018&lt;/li&gt;
+&lt;li&gt;Oikos - Subject editor since 2018&lt;/li&gt;
+&lt;li&gt;IUCN SSC Climate Change Specialist Group - commission member since 2017&lt;/li&gt;
+&lt;li&gt;Diversity and Distributions - Associate editor since 2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;journal-reviewing&#34;&gt;Journal reviewing&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;American Naturalist, Basic and Applied Ecology, Biology Letters, Diversity and Distributions, Ecography, Ecological Modelling, Ecosphere, Environmental Modelling &amp;amp; Software, Global Change Biology, Global Ecology and Biogeography, Journal of Applied Ecology, Journal of Biogeography, Journal of Ornithology, Journal of the Royal Society Interface, Methods in Ecology and Evolution, Oikos, PeerJ, Theoretical Ecology&lt;/li&gt;
+&lt;li&gt;Natur und Landschaft&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;organisation-of-meetings&#34;&gt;Organisation of meetings&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2018&lt;/strong&gt; &amp;ndash; co-organisation of 3-day international workshop &amp;ldquo;Macroecology in the age of big data&amp;rdquo;, annual meeting of the GfÖ specialist group &amp;ldquo;Macroecology&amp;rdquo;, Birmensdorf, Switzerland&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; &amp;ndash; co-organisation of 5-day international research workshop “Biotic interactions across space and time”, Akademie Waldschlösschen, Germany (participation upon invitation only)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2011&lt;/strong&gt; &amp;ndash; co-organisation of symposium “Towards rules of thumb for predictions of range dynamics” at annual conference of GfÖ, Oldenburg, Germany&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2009&lt;/strong&gt; &amp;ndash; co-organisation of 3-day international workshop “Process-based modelling meets macroecological patterns”, joint annual meeting of the GfÖ specialist groups “Theory in Ecology” and “Macroecology”, Potsdam, Germany&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2008&lt;/strong&gt; &amp;ndash; co-organisation of symposium “Macroecology and climate change – Past, present and future” during joint annual conference of European Ecological Federation (EURECO) and Ecological Society of Germany, Austria and Switzerland (GfÖ) in Leipzig, Germany&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h6 id=&#34;member&#34;&gt;Memberships&lt;/h6&gt;
+
+&lt;p&gt;Ecological Society of Germany, Switzerland and Austria (GfÖ)
+International Biogeography Society (IBS)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://damariszurell.github.io/extras/news/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/news/</guid>
+      <description>&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://damariszurell.github.io/extras/alumni_list/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
+      <description>
+
+&lt;h2 id=&#34;lab-alumni&#34;&gt;Lab alumni&lt;/h2&gt;
+
+&lt;h4 id=&#34;research-assistants&#34;&gt;Research assistants&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2017-2018&lt;/strong&gt; &amp;ndash; Helge Gross (M.Sc.) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; data management and species distribution modelling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2017-2018&lt;/strong&gt; &amp;ndash; Katarina Varga (M.Sc) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; ornithologist, bird territory mapping Switzerland&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; &amp;ndash; Helge Gross &amp;ndash; Uni Potsdam and WSL &amp;ndash; data management, habitat selection in white storks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2015&lt;/strong&gt; &amp;ndash; Lena Schlag &amp;ndash; Uni Potsdam and WSL &amp;ndash; home range selection in white storks&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2014-2015&lt;/strong&gt; &amp;ndash; Merlin Schäfer &amp;ndash; Uni Potsdam and WSL &amp;ndash; computer scientist, optimal annual routine models for migratory animals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;master&#34;&gt;Master&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2013-2014&lt;/strong&gt; &amp;ndash; Andreas Neumann &amp;ndash; &amp;ldquo;Vorhersage von Artenvielfalt und -zusammensetzung mittels überlagerter Artverbreitungsmodelle (S-SDM)&amp;rdquo; &amp;ndash; Diplom, Uni Potsdam, main Supervisor: Dr. Anna Cord (UFZ Leipzig)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2013-2014&lt;/strong&gt; &amp;ndash; Helge Gross &amp;ndash; &amp;ldquo;Multi-regional assessment of determinants of tree species diversity in Mexico&amp;rdquo; &amp;ndash; Diplom, Uni Potsdam , main Supervisor: Dr. Anna Cord (UFZ Leipzig)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2013-2014&lt;/strong&gt; &amp;ndash; Merlin Schäfer &amp;ndash; &amp;ldquo;Modeling of optimal annual routines to infer migration timing in white storks (Ciconia ciconia)&amp;rdquo; &amp;ndash; M.Sc., Technische Universität Berlin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2013-2014&lt;/strong&gt; &amp;ndash; Alexandra Hinz &amp;ndash; &amp;ldquo;Dynamic patterns of behaviour in breeding white storks (Ciconia ciconia): an analysis using 3-dimensional acceleration data&amp;rdquo; &amp;ndash; M.Sc., Uni Potsdam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;interns&#34;&gt;Interns&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2014&lt;/strong&gt; &amp;ndash; Ruben Ulbrich &amp;ndash; &amp;ldquo;Species distribution modelling of invasive species using presence-only data&amp;rdquo; &amp;ndash; Intern, University of Namibia&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2013&lt;/strong&gt; &amp;ndash; Marianne Meinel &amp;ndash; &amp;ldquo;Validation of flight behaviour and wing beat frequency from ACC signal by video surveillance&amp;rdquo; &amp;ndash; Intern, Uni Potsdam&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2013&lt;/strong&gt; &amp;ndash; Simon Wohlfahrt &amp;ndash; field assistant, GPS tracking white storks, ACC behavioural observations &amp;ndash; Intern, Uni Potsdam&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIOPIC</title>
+      <link>https://damariszurell.github.io/project/biopic/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/biopic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by an Emmy Noether grant by the German Science Foundation DFG (2018-2023; Grant no. ZU 361.1-1 to Damaris Zurell)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments. In BIOPIC, we will develop an integrated modelling framework able to disentangle the complex roles of demography, dispersal and biotic interactions in shaping species niches, and assess their effects on population and community response to global change. The framework and its single components will be validated using a mix of simulated and empirical data, and it will be operationalized for avian communities as test case. In particular, the project will focus on five key research objectives aimed at (1) improving our understanding how life history and environment shape dispersal, (2) improving our understanding how life history and demography shape species’ niches, (3) improving our understanding how biotic interactions shape species’ niches, (4) developing and operationalizing multi-species dynamic distribution models, and (5) developing new biodiversity scenarios for European birds. Overall, the proposed project will improve the scientific basis for model-based biodiversity assessments and increase reliability of biodiversity predictions for broad spatial scales by providing both theoretical and conceptual advancements and by defining practical requirements and guidelines for the development and application of biodiversity models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Catherine H Graham and Niklaus E Zimmermann, WSL, Switzerland&lt;/li&gt;
+&lt;li&gt;Thomas Sattler and Marc Kéry, Swiss Ornithological Institute, Sempach, Switzerland&lt;/li&gt;
+&lt;li&gt;Wilfried Thuiller and Tamara Münkemüller, LECA, France&lt;/li&gt;
+&lt;li&gt;Florian Hartig, Univ. Regensburg, Germany&lt;/li&gt;
+&lt;li&gt;Wolfgang Fiedler, MPIO Radolfzell, Germany&lt;/li&gt;
+&lt;li&gt;Tobias Kümmerle, HU Berlin, Germany&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://damariszurell.github.io/extras/downloads/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/downloads/</guid>
+      <description>
+
+&lt;p&gt;You can download some of my codes from &lt;a href=&#34;https://github.com/damariszurell&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my github site&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;repository-ibm-optimalforaging-https-github-com-damariszurell-ibm-optimalforaging&#34;&gt;Repository &lt;a href=&#34;https://github.com/damariszurell/IBM_OptimalForaging&#34; target=&#34;_blank&#34;&gt;IBM_OptimalForaging&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;C++ codes for individual-based foraging model described in &lt;a href=&#34;https://damariszurell.github.io/extras/publication_list#pub-2015&#34;&gt;Zurell et al. (2015) Oikos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://damariszurell.github.io/img/downloads/stork_IBM.png&#34; alt=&#34;IBM_OptimalForaging&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;repository-rcodes-mapnovelenvironments-sdms-https-github-com-damariszurell-rcodes-mapnovelenvironments-sdms&#34;&gt;Repository &lt;a href=&#34;https://github.com/damariszurell/Rcodes_MapNovelEnvironments_SDMs&#34; target=&#34;_blank&#34;&gt;Rcodes_MapNovelEnvironments_SDMs&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in &lt;a href=&#34;https://damariszurell.github.io/extras/publication_list#pub-2012&#34;&gt;Zurell et al. (2012) DDI&lt;/a&gt;.
+&lt;img src=&#34;https://damariszurell.github.io/img/downloads/inflatedResponseCurves.png&#34; alt=&#34;InflatedResponse&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MATES</title>
+      <link>https://damariszurell.github.io/project/mates/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/mates/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Understanding and predicting multispecies assemblages and interactions in space and time&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research was supported by the People Programme (Marie Curie Actions) of the European Union’s Seventh Framework Programme (FP7/2007– 2013) under REA grant agreement no. 624958 to Damaris Zurell.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Understanding and modelling biotic interactions and their dynamics are prerequisite for predicting community and biodiversity response to climate change and, thus, for designing strategies and policies to halt the loss of biodiversity and associated ecosystem services. We investigate uncertainties in biodiversity response to climate change by improving and integrating existing approaches for modelling biotic interactions in large-scale multispecies assemblages, taking into account reciprocal effects between species and their abiotic and biotic environment as well as variations in biotic interactions across space and time, and considering macroecological constraints on species assemblages.&lt;/p&gt;
+
+&lt;p&gt;In brief, we will combine extensive empirical and theoretical analyses in order to define practical requirements and guidelines for the implementation of community assemblage predictions.
+we will implement algorithms for describing biotic interactions between species and functional groups, using a hierarchical Bayesian approach. Algorithms will be benchmarked using species assemblage data on birds, butterflies and plants, mainly from Switzerland but also from other parts of Europe.
+we will test the effects of different interaction mechanisms and data limitations on model performance using data from simulated communities
+we will combine our multispecies interaction models with macroecological models to predict species richness and species compositions for an ensemble of climate change scenarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Supervisor: Niklaus E Zimmermann, WSL, Switzerland&lt;/li&gt;
+&lt;li&gt;Laure Gallien, Michael Nobis, Heike Lischke, Rafael Wüest, WSL, Switzerland&lt;/li&gt;
+&lt;li&gt;Thomas Sattler, Marc Kéry, Swiss Ornithological Institute, Sempach/Switzerland&lt;/li&gt;
+&lt;li&gt;Bob O’Hara, Biodiversity and Climate Research Centre (BiK-F) Frankfurt/Germany&lt;/li&gt;
+&lt;li&gt;Tamara Münkemüller, Wilfried Thuiller, Laboratoire Ecologie d’Alpine (LECA) Grenoble, France&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD thesis</title>
+      <link>https://damariszurell.github.io/project/phd/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/phd/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Integrating dynamic and statistical modelling approaches in order to improve predictions for scenarios of environmental change&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This was my PhD research, supported by the University of Potsdam Graduate School on Ecological Modelling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Species respond to environmental change by dynamically adjusting their geographical ranges. Robust predictions of these changes are prerequisites to inform dynamic and sustainable conservation strategies. Correlative species distribution models (SDMs) relate species’ occurrence records to prevailing environmental factors to describe the environmental niche. They have been widely applied in global change context as they have comparably low data requirements and allow for rapid assessments of potential future species’ distributions. However, due to their static nature, transient responses to environmental change are essentially ignored in SDMs. Furthermore, neither dispersal nor demographic processes and biotic interactions are explicitly incorporated. Therefore, it has often been suggested to link statistical and mechanistic modelling approaches in order to make more realistic predictions of species’ distributions for scenarios of environmental change (e.g. Gutt et al. 2012). Here, we studied two different ways of such linkage. (i) Mechanistic modelling can act as virtual playground for testing statistical models and allows extensive exploration of specific questions. This ‘virtual ecologist’ approach is a powerful evaluation framework for testing sampling protocols, analyses and modelling tools (Zurell et al. 2010). We employed such an approach to systematically assess the effects of transient dynamics and ecological properties and processes on the prediction accuracy of SDMs for climate change projections (Zurell et al. 2009). That way, relevant mechanisms were identified that shape the species’ response to altered environmental conditions and which should hence be considered when trying to project species’ distribution through time. (ii) We supplemented SDM projections of potential future habitat for black grouse in Switzerland with an individual-based population model (Zurell et al. 2012a). By explicitly considering complex interactions between habitat availability and demographic processes, this allows for a more direct assessment of expected population response to environmental change and associated extinction risks. However, predictions were highly variable across simulations emphasising the need for principal evaluation tools like sensitivity analysis to assess uncertainty and robustness in dynamic range predictions. Furthermore, we identified data coverage of the environmental niche as a likely cause for contrasted range predictions between SDM algorithms (Zurell et al. 2012b). SDMs may fail to make reliable predictions for truncated and edge niches, meaning that portions of the niche are not represented in the data or niche edges coincide with data limits.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Boris Schröder (TU Braunschweig, Germany)&lt;/li&gt;
+&lt;li&gt;Volker Grimm (UFZ Leipzig, Germany)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SCODA</title>
+      <link>https://damariszurell.github.io/project/scoda/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/scoda/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Scaling from individual interactions to community dynamics in avian assemblages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by an Ambizione fellowship by the Swiss National Science Foundation (2016-2019; Grant no. PZ00P3_168136 to Damaris Zurell)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Biodiversity loss due to global environmental change is expected to increase rapidly throughout the 21st century posing a major challenge to nature conservation and society. In order to anticipate and mitigate negative impacts on ecosystem functions and services, models are needed that reliably depict the abiotic and biotic drivers that determine species and community response to environmental change. Correlative species distribution models (SDMs) have been widely used in this context, but remain criticised for only implicitly accounting for interspecific interactions and for not being able to properly disentangle the fundamental and realised niche of a species. Recently, new tools have been introduced that integrate SDMs with community ecological methods of co-occurrence analyses. So-called joint species distribution models (JSDMs) simultaneously estimate the distribution of multiple species and allow partitioning species co-occurrence patterns into species-specific environmental responses and residual correlations between species, which may result from interspecific interactions but also from unmeasured environmental factors. JSDMs provide an exciting development in macroecology and community ecology, but are still in its infancy with few available applications and without rigorous evaluation. Important questions remain regarding, for example, the scale dependence and spatiotemporal variation in interspecific interaction mechanisms and their effect on JSDM performance, the specific data needed for reliably identifying these mechanisms, and the applicability of JSDMs for climate impact assessments.&lt;/p&gt;
+
+&lt;p&gt;This project will focus on Swiss avian communities and aims at: (1) evaluating the ability of JSDMs to detect and reliably quantify different interspecific interaction mechanisms, and to predict avian communities under scenarios of climate change; (2) evaluating the scale dependence of interspecific interaction processes in avian assemblages and their relation to functional traits; (3) assessing the extent of spatial and temporal variation in interspecific interactions for selected bird assemblages; and (4) incorporating trait information into JSDMs to understand how behavioural syndromes mediate interspecific interactions in birds. To achieve these goals, the project will make use of the extensive bird monitoring programmes of Switzerland in close collaboration with the Swiss Ornithological Institute, supplemented by targeted simulation experiments that allow testing the models against specific underlying assumptions. The project is expected to provide both theoretical and conceptual advancements in model-based predictions of species range and community changes by explicitly studying the link between local scale biotic interactions and large-scale avian community patterns, and by combining extensive empirical and theoretical analyses to define practical requirements and guidelines for the implementation of community assemblage predictions. Moreover, it will help understanding the complexities of Swiss avian assemblages and help anticipating potential environmental change-induced changes to Swiss avian diversity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Catherine H Graham, Rafael O Wüest and Niklaus E Zimmermann, WSL, Switzerland&lt;/li&gt;
+&lt;li&gt;Thomas Sattler and Marc Kéry, Swiss Ornithological Institute, Sempach, Switzerland&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPEEDMIND</title>
+      <link>https://damariszurell.github.io/project/speedmind/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/speedmind/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Improving species biodiversity analyses and citizen science feedback through mining data&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Interdisciplinary project funded by the Swiss Data Science Center (ETH board, 2017-2019; awarded to Niklaus E. Zimmermann, and co-PIs Dirk N. Karger and Damaris Zurell).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to conserve and manage biodiversity, we need an improved understanding of essential biodiversity drivers and improved predictions of resulting biodiversity patterns in space and time. Here, we propose a novel approach based on data-mining and iterative machine learning to improve biodiversity models and to better exploit existing data as well as guide future data sampling efforts. Modern data-mining techniques are destined to improve traditional species distribution modelling. On the one hand, massive amounts of biodiversity data are becoming available through citizen science and technical advances in monitoring, with increasing data of species occurrence, morphological traits, evolutionary history, and environmental variables. On the other hand, these data are often incomplete in that clear sampling designs are missing and information is not equally accurate or complete for all species. These data gaps could be filled by modern machine learning algorithms that are able to find a way through the maze of uncertainties in these data, in which scientists so easily get lost.&lt;/p&gt;
+
+&lt;p&gt;Applicable to any species group world-wide, the proposed project will focus on floristic data from Switzerland as a pilot system to set up and study the benefits of data-mining and machine learning techniques for facilitating biodiversity assessments. Structured into four work packages, the project will combine various data sources in a novel way and foster the link between ecological sciences and citizen science. By that, it will pave the way towards automated quality checks in citizen science data, improved uncertainty analyses and identification of hidden information in large scale biodiversity inventories, and real-time guidance of observer efforts in citizen science based data collection. Key milestones of the project include: a) an operative framework linking real-time data streams and a citizen science interface, b) iteratively model the distribution of individual species and associated spatiotemporal uncertainty patterns using machine learning and data-mining, c) a meta-learning to detect ecologically relevant, higher-level processes structuring biodiversity, and d) a model-based catalogue of criteria for guiding citizen scientists for improved data collection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

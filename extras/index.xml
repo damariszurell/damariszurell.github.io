@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extras on Damaris Zurell research</title>
+    <link>https://damariszurell.github.io/extras/</link>
+    <description>Recent content in Extras on Damaris Zurell research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017-2019 Damaris Zurell</copyright>
+    <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://damariszurell.github.io/extras/publication_list/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
+      <description>ResearcherID E-2439-2012. You can also find me on ResearchGate and GoogleScholar.
+Journal articles - Book chapters
+Peer-reviewed journal articles in press - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - submitted
+in press  32 &amp;ndash; Beckman N, Aslan C, Rogers H, Kogan O, Bronstein J, Bullock J, Hartig F, HilleRisLambers J, Zhou Y, Zurell D, Brodie J, Bruna E, Cantrell S, Decker R, Effiom E, Fricke E, Gurski K, Hastings A, Johnson J, Loiselle B, Miriti M, Neubert M, Pejchar L, Poulsen J, Pufal G, Razafindratsima O, Sandor M, Shea K, Schreiber S, Schupp E, Snell R, Strickland C, Zambrano J (accepted) Advancing an interdisciplinary framework to study seed dispersal ecology.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://damariszurell.github.io/extras/alumni_list/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
+      <description>Lab alumni Research assistants  2017-2018 &amp;ndash; Helge Gross (M.Sc.) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; data management and species distribution modelling 2017-2018 &amp;ndash; Katarina Varga (M.Sc) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; ornithologist, bird territory mapping Switzerland 2015 &amp;ndash; Helge Gross &amp;ndash; Uni Potsdam and WSL &amp;ndash; data management, habitat selection in white storks 2015 &amp;ndash; Lena Schlag &amp;ndash; Uni Potsdam and WSL &amp;ndash; home range selection in white storks 2014-2015 &amp;ndash; Merlin Schäfer &amp;ndash; Uni Potsdam and WSL &amp;ndash; computer scientist, optimal annual routine models for migratory animals  Master  2018-2019 &amp;ndash; Hendrik Bluhm &amp;ndash; &amp;ldquo;Mapping habitat suitability and landscape connectivity for moose (Alces alces) in Central Europe&amp;rdquo; &amp;ndash; M.</description>
+    </item>
+    
+    <item>
+      <title>Damaris Zurell</title>
+      <link>https://damariszurell.github.io/extras/damaris_cv/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/damaris_cv/</guid>
+      <description>Contact - Education - Career - Projects - Awards - Professional activities - Memberships
+Contact details Dr. Damaris Zurell
+Geography Department | Humboldt-Universität zu Berlin
+Unter den Linden 6 | D-10099 Berlin | Germany
+Office: Rudower Chaussee 16 | D-12489 Berlin | Room 1.209
+Phone: +49 30 2093 6839
+My institutional website
+Education  2011 &amp;ndash; PhD in Geoecology, University of Potsdam, Inst. of Earth and Environmental Sciences
+ 2007 &amp;ndash; Diplom (M.</description>
+    </item>
+    
+    <item>
+      <title>Join the lab</title>
+      <link>https://damariszurell.github.io/extras/joinlab/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/joinlab/</guid>
+      <description>Job openings, Bachelor and Master theses &amp;hellip;
+Job openings &amp;ndash; Funding opportunities &amp;ndash; Thesis topics
+If you would like to do a postdoc, PhD, Master or Bachelor with me, please do not hesitate to contact me. Some topics and anticipated job openings are listed below, but own ideas are always welcome and I am happy to discuss funding possibilities. Please carefully read the information listed below before contacting me.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://damariszurell.github.io/extras/news/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://damariszurell.github.io/extras/downloads/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/downloads/</guid>
+      <description> You can download some of my codes from my github site.
+Repository IBM_OptimalForaging C++ codes for individual-based foraging model described in Zurell et al. (2015) Oikos.
+Repository Rcodes_MapNovelEnvironments_SDMs R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in Zurell et al. (2012) DDI. </description>
+    </item>
+    
+  </channel>
+</rss>

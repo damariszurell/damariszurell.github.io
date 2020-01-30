@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pi on Damaris Zurell research</title>
+    <link>https://damariszurell.github.io/tags/pi/</link>
+    <description>Recent content in Pi on Damaris Zurell research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017-2020 Damaris Zurell</copyright>
+    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://damariszurell.github.io/tags/pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>RangeDyna</title>
+      <link>https://damariszurell.github.io/project/rangedyna/</link>
+      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/rangedyna/</guid>
+      <description>Moving from pattern towards process for improved forecasts of species range dynamics
+This exchange project (2019-2020) is supported by the DAAD (Grant to Damaris Zurell) and the University of Melbourne (Grant to Gurutzeta Guillera-Arroita)
+Summary
+Forecasts of where species are likely to occur in the future are important for informed species management. Predictions help in conserving populations that may otherwise be lost, or detecting invasive or harmful species that might otherwise be overlooked.</description>
+    </item>
+    
+    <item>
+      <title>BIOPIC</title>
+      <link>https://damariszurell.github.io/project/biopic/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/biopic/</guid>
+      <description>Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change
+This research is supported by an Emmy Noether grant by the German Science Foundation DFG (2018-2023; Grant no. ZU 361.1-1 to Damaris Zurell)
+Summary
+Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments. In BIOPIC, we will develop an integrated modelling framework able to disentangle the complex roles of demography, dispersal and biotic interactions in shaping species niches, and assess their effects on population and community response to global change.</description>
+    </item>
+    
+  </channel>
+</rss>

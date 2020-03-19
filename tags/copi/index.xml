@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Copi on Damaris Zurell research</title>
+    <link>https://damariszurell.github.io/tags/copi/</link>
+    <description>Recent content in Copi on Damaris Zurell research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017-2020 Damaris Zurell</copyright>
+    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://damariszurell.github.io/tags/copi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SPEEDMIND</title>
+      <link>https://damariszurell.github.io/project/speedmind/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/speedmind/</guid>
+      <description>Improving species biodiversity analyses and citizen science feedback through mining data
+Interdisciplinary project funded by the Swiss Data Science Center (ETH board, 2017-2019; awarded to Niklaus E. Zimmermann, and co-PIs Dirk N. Karger and Damaris Zurell).
+Summary
+In order to conserve and manage biodiversity, we need an improved understanding of essential biodiversity drivers and improved predictions of resulting biodiversity patterns in space and time. Here, we propose a novel approach based on data-mining and iterative machine learning to improve biodiversity models and to better exploit existing data as well as guide future data sampling efforts.</description>
+    </item>
+    
+  </channel>
+</rss>

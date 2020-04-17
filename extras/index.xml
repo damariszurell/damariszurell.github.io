@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Extras on Damaris Zurell research</title>
@@ -20,7 +20,7 @@
       <guid>https://damariszurell.github.io/extras/publication_list/</guid>
       <description>ResearcherID E-2439-2012. You can also find me on ResearchGate and GoogleScholar.
 Journal articles - Book chapters
- Peer-reviewed journal articles in press - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - submitted
+Peer-reviewed journal articles in press - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - submitted
 in press  35 &amp;ndash; Beckman N, Aslan C, Rogers H, Kogan O, Bronstein J, Bullock J, Hartig F, HilleRisLambers J, Zhou Y, Zurell D, Brodie J, Bruna E, Cantrell S, Decker R, Effiom E, Fricke E, Gurski K, Hastings A, Johnson J, Loiselle B, Miriti M, Neubert M, Pejchar L, Poulsen J, Pufal G, Razafindratsima O, Sandor M, Shea K, Schreiber S, Schupp E, Snell R, Strickland C, Zambrano J (2019) Advancing an interdisciplinary framework to study seed dispersal ecology.</description>
     </item>
     
@@ -41,8 +41,7 @@ in press  35 &amp;ndash; Beckman N, Aslan C, Rogers H, Kogan O, Bronstein J, Bul
       <guid>https://damariszurell.github.io/extras/joinlab/</guid>
       <description>Job openings, Bachelor and Master theses &amp;hellip;
 Topics &amp;ndash; Job openings &amp;ndash; Funding opportunities
-If you would like to do a postdoc, PhD, Master or Bachelor in my team, please do not hesitate to contact me. Some topics and anticipated job openings are listed below, but own ideas are always welcome and I am happy to discuss funding possibilities. Please carefully read the information listed below before contacting me.
- Topics - for Bachelor and Master theses as well as postdoc or PhD work We regularly supervise Master and Bachelor theses, and are happy to collaborate on PhD and postdoc projects.</description>
+If you would like to do a postdoc, PhD, Master or Bachelor in my team, please do not hesitate to contact me. Some topics and anticipated job openings are listed below, but own ideas are always welcome and I am happy to discuss funding possibilities. Please carefully read the information listed below before contacting me.</description>
     </item>
     
     <item>
@@ -58,7 +57,8 @@ Unter den Linden 6 | D-10099 Berlin | Germany
 Office: Rudower Chaussee 16 | D-12489 Berlin | Room 1.209
 Phone: +49 30 2093 6839
 My institutional website
- Education   2011 &amp;ndash; PhD in Geoecology, University of Potsdam, Inst. of Earth and Environmental Sciences</description>
+Education  2011 &amp;ndash; PhD in Geoecology, University of Potsdam, Inst. of Earth and Environmental Sciences
+ 2007 &amp;ndash; Diplom (M.</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@ My institutional website
       <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/extras/news/</guid>
-      <description> </description>
+      <description></description>
     </item>
     
     <item>
@@ -76,9 +76,9 @@ My institutional website
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/extras/downloads/</guid>
-      <description>You can download some of my codes from my github site.
- Repository IBM_OptimalForaging C++ codes for individual-based foraging model described in Zurell et al. (2015) Oikos.
- Repository Rcodes_MapNovelEnvironments_SDMs R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in Zurell et al. (2012) DDI. </description>
+      <description> You can download some of my codes from my github site.
+Repository IBM_OptimalForaging C++ codes for individual-based foraging model described in Zurell et al. (2015) Oikos.
+Repository Rcodes_MapNovelEnvironments_SDMs R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in Zurell et al. (2012) DDI. </description>
     </item>
     
   </channel>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Extras on Damaris Zurell research</title>
+    <link>https://damariszurell.github.io/extras/</link>
+    <description>Recent content in Extras on Damaris Zurell research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://damariszurell.github.io/extras/publication_list/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
+      <description>GoogleScholar &amp;ndash; ResearcherID E-2439-2012 &amp;ndash; ResearchGate
+Journal articles - Book chapters - Miscellaneous
+Peer-reviewed journal articles in press - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - in revision
+in press  46 &amp;ndash; Bocedi G, Palmer SCF, Malchow AK, Zurell D, Watts K, Travis JMJ (accepted) RangeShifter 2.0: An extended and enhanced platform for modelling spatial eco-evolutionary dynamics and species’ responses to environmental changes.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://damariszurell.github.io/extras/alumni_list/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
+      <description>Lab alumni Postdocs  2019-2021 &amp;ndash; Christian König (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how biotic interactions shape species&amp;rsquo; niches&amp;rdquo; 2018-2020 &amp;ndash; Patrice Descombes (PhD) &amp;ndash; WSL, SPEEDMIND project &amp;ndash; Improve feedback between biodiversity analyses and citizen scientists, main Supervisor: Prof. Dr. Niklaus E. Zimmermann (WSL, Switzerland)  Research assistants  2020-2021 &amp;ndash; Simon Kapitza (M.Sc.) - Univ. Potsdam &amp;ndash; data base management, biodiversity assessments, socio-economic modelling 2020-2021 &amp;ndash; Yari Osenberg (M.</description>
+    </item>
+    
+    <item>
+      <title>Join the lab</title>
+      <link>https://damariszurell.github.io/extras/joinlab/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/joinlab/</guid>
+      <description>Job openings, Bachelor and Master theses &amp;hellip;
+Topics &amp;ndash; Job openings &amp;ndash; Funding opportunities
+If you would like to do a postdoc, PhD, Master or Bachelor in my team, please do not hesitate to contact me. Some topics and anticipated job openings are listed below, but own ideas are always welcome and I am happy to discuss funding possibilities. Please carefully read the information listed below before contacting me.</description>
+    </item>
+    
+    <item>
+      <title>Open thesis topics</title>
+      <link>https://damariszurell.github.io/extras/theses/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/theses/</guid>
+      <description>Intra-specific variation in dispersal: a simulation approach (Master thesis) Dynamic occupancy modelling of Swiss breeding birds (Master thesis) Climate change-induced niche shifts in North American birds (Master thesis) Climatic niche asymmetry in plants of the Americas (Master thesis)  Intra-specific variation in dispersal: a simulation approach (Master thesis) Dispersal is a central biological process determining the movement and genetic exchange between populations, and the range dynamics of species under global change.</description>
+    </item>
+    
+    <item>
+      <title>Damaris Zurell</title>
+      <link>https://damariszurell.github.io/extras/damaris_cv/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/damaris_cv/</guid>
+      <description>Contact - Education - Career - Projects - Awards - Professional activities - Memberships
+Contact details Prof. Dr. Damaris Zurell
+Ecology/Macroecology Group
+Institute for Biochemistry and Biology | University of Potsdam
+Am Neuen Palais 10 | D-14469 Potsdam | Germany
+Office: Maulbeerallee 3 | D-14469 Potsdam | Room 0.12
+Phone: +49 331 977 191002
+Education  2011 &amp;ndash; PhD in Geoecology, University of Potsdam, Inst. of Earth and Environmental Sciences</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://damariszurell.github.io/extras/news/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://damariszurell.github.io/extras/downloads/</link>
+      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/downloads/</guid>
+      <description> You can download some of my codes from my github site.
+Repository IBM_OptimalForaging C++ codes for individual-based foraging model described in Zurell et al. (2015) Oikos.
+Repository Rcodes_MapNovelEnvironments_SDMs R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in Zurell et al. (2012) DDI. </description>
+    </item>
+    
+  </channel>
+</rss>

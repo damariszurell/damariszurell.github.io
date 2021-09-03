@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
-    <lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -67,11 +67,11 @@ My ResearcherID is E-2439-2012. You can also find me on ResearchGate and GoogleS
     <item>
       <title>Teaching</title>
       <link>https://damariszurell.github.io/home/teaching/</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/home/teaching/</guid>
       <description>Teaching materials for practicals:
- Block course R introductory/prepartory course Practicals for MSc module Quantitative conservation biology: applied population modelling wit RangeShiftR
+ Block course R introductory/preparatory course Practicals for MSc module Quantitative conservation biogeography: applied population modelling wit RangeShiftR
  Practicals for MSc module Macroecology and global change: macroecological analyses, species distribution modelling Short (half-day) course Introduction to species distribution modelling in R - last updated November 2020  Current teaching:
  BSc course &amp;ldquo;Introduction to scientific working in ecology&amp;rdquo;, Univ. Potsdam MSc course &amp;ldquo;R preparatory course&amp;rdquo;, Univ.</description>
     </item>

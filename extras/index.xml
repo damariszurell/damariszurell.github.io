@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
-    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Join the lab</title>
+      <link>https://damariszurell.github.io/extras/joinlab/</link>
+      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/joinlab/</guid>
+      <description>Job openings, Bachelor and Master theses &amp;hellip;
+Topics &amp;ndash; Job openings &amp;ndash; Funding opportunities
+We are open to hosting postdoc, PhD, Master or Bachelor projects in my team, yet have also limited spaces. Some topics and anticipated job openings are listed below. Also own ideas are welcome and I am happy to discuss funding possibilities if the topics suit my general research aims and if I have space in the lab.</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -76,17 +87,6 @@ Education  2011 &amp;ndash; PhD in Geoecology, University of Potsdam, Inst. of E
       <description> You can download some of my codes from my github site.
 Repository IBM_OptimalForaging C++ codes for individual-based foraging model described in Zurell et al. (2015) Oikos.
 Repository Rcodes_MapNovelEnvironments_SDMs R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in Zurell et al. (2012) DDI. </description>
-    </item>
-    
-    <item>
-      <title>Join the lab</title>
-      <link>https://damariszurell.github.io/extras/joinlab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/joinlab/</guid>
-      <description>Job openings, Bachelor and Master theses &amp;hellip;
-Topics &amp;ndash; Job openings &amp;ndash; Funding opportunities
-We are open to hosting postdoc, PhD, Master or Bachelor projects in my team, yet have also limited spaces. Some topics and anticipated job openings are listed below. Also own ideas are welcome and I am happy to discuss funding possibilities if the topics suit my general research aims and if I have space in the lab.</description>
     </item>
     
   </channel>

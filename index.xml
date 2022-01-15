@@ -6,8 +6,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Join the lab</title>
+      <link>https://damariszurell.github.io/extras/joinlab/</link>
+      <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/joinlab/</guid>
+      <description>
+
+&lt;p&gt;Job openings, Bachelor and Master theses &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;#topics&#34;&gt;Topics&lt;/a&gt; &amp;ndash; &lt;a href=&#34;#jobs&#34;&gt;Job openings&lt;/a&gt; &amp;ndash; &lt;a href=&#34;#funding&#34;&gt;Funding opportunities&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img/Meco_logo.jpg&#34; alt=&#34;UP-Macroecology&#34; style=&#34;width:500px;&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;We are open to hosting postdoc, PhD, Master or Bachelor projects in my team, yet have also limited space. Our general topics are listed below and anticipated job openings can be found &lt;a href=&#34;https://www.uni-potsdam.de/en/ibb-macroecology/join-the-lab&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Also own ideas are welcome and I am happy to discuss funding possibilities if the topics suit my general research aims and if I have space in the lab. Please carefully read the information listed below before contacting me.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;topics&#34;&gt;Topics - for Bachelor and Master theses as well as postdoc or PhD work&lt;/h3&gt;
+
+&lt;p&gt;We regularly supervise Master and Bachelor theses, and are happy to collaborate on PhD and postdoc projects. Please have a look at our projects and publications to get an idea what topics interest us. These include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Global change impacts on biodiversity: range and community shifts, invasive species&lt;/li&gt;
+&lt;li&gt;Species distribution modelling&lt;/li&gt;
+&lt;li&gt;Spatially explicit dynamic population models and dispersal models&lt;/li&gt;
+&lt;li&gt;Occupancy modelling (static and dynamic)&lt;/li&gt;
+&lt;li&gt;Movement ecology and animal migration: migration phenology, seasonal niches, home range strategies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of our work is based on statistics and/or simulation models. Thus, a base understanding of R programming or C++ programming as well as statistics is prerequisite for working in our team.&lt;/p&gt;
+
+&lt;p&gt;When approaching me for a thesis topic, please provide some more information about yourself, e.g. study programme, previous experience in R and statistics (or any other relevant skills), and your time frame.&lt;/p&gt;
+
+&lt;p&gt;When approaching me for individual postdoc or PhD projects, please first check out available funding schemes listed below. Then, when contacting me, please send along at least a one page summary of your research idea, your CV, a time schedule and a list of potential funding schemes that you would like to apply to. You may imagine that I get more enquiries of students than I can accomodate, and it is thus important to find out whether your research fits in our team and ongoing research projects and whether it would be suitable for the envisioned funding scheme.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;funding&#34;&gt;Funding opportunities for postdoc or PhD work&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding opportunities for students/postdocs currently based outside Germany:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&amp;amp;origin=&amp;amp;subjectGrps=&amp;amp;daad=1&amp;amp;q=&amp;amp;page=1&amp;amp;back=1&#34; target=&#34;_blank&#34;&gt;DAAD&lt;/a&gt; &amp;ndash; The German Academic Exchange Service provides a PhD/Postdoc scholarship data base.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.humboldt-foundation.de/web/programmes-by-target-group.html&#34; target=&#34;_blank&#34;&gt;AvH&lt;/a&gt; &amp;ndash; The Alexander-von-Humboldt foundation offers different postdoctoral fellowships to come to Germany.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.einsteinfoundation.de/en/programmes/einstein-international-postdoctoral-fellow/&#34; target=&#34;_blank&#34;&gt;Einstein&lt;/a&gt; &amp;ndash; The Einstein Foundation offers special postdoctoral fellowships for Berlin-based working groups.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dfg.de/en/research_funding/programmes/individual/research_grants/index.html&#34; target=&#34;_blank&#34;&gt;DFG&lt;/a&gt; &amp;ndash; The German Science Foundation offers various research grants.
+-&lt;a href=&#34;https://ec.europa.eu/programmes/horizon2020/en/h2020-section/marie-sklodowska-curie-actions&#34; target=&#34;_blank&#34;&gt;H2020&lt;/a&gt; &amp;ndash; The EU offers individual postdoctoral fellowships within the Marie Skłodowska-Curie actions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding opportunities for students/postdocs currently based in Germany:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dfg.de/en/research_funding/programmes/individual/research_grants/index.html&#34; target=&#34;_blank&#34;&gt;DFG&lt;/a&gt; &amp;ndash; The German Science Foundation offers various research grants.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dbu.de/2821.html&#34; target=&#34;_blank&#34;&gt;DBU&lt;/a&gt; &amp;ndash; The German Federal Environmental Foundation offers PhD scholarships.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -351,80 +410,6 @@ International Biogeography Society (IBS)&lt;/p&gt;
 &lt;li&gt;2014 &amp;ndash; &lt;strong&gt;Ruben Ulbrich&lt;/strong&gt; &amp;ndash; &amp;ldquo;Species distribution modelling of invasive species using presence-only data&amp;rdquo; &amp;ndash; Intern, Univ. Namibia&lt;/li&gt;
 &lt;li&gt;2013 &amp;ndash; &lt;strong&gt;Marianne Meinel&lt;/strong&gt; &amp;ndash; &amp;ldquo;Validation of flight behaviour and wing beat frequency from ACC signal by video surveillance&amp;rdquo; &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
 &lt;li&gt;2013 &amp;ndash; &lt;strong&gt;Simon Wohlfahrt&lt;/strong&gt; &amp;ndash; field assistant, GPS tracking white storks, ACC behavioural observations &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Join the lab</title>
-      <link>https://damariszurell.github.io/extras/joinlab/</link>
-      <pubDate>Sun, 26 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/joinlab/</guid>
-      <description>
-
-&lt;p&gt;Job openings, Bachelor and Master theses &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;#topics&#34;&gt;Topics&lt;/a&gt; &amp;ndash; &lt;a href=&#34;#jobs&#34;&gt;Job openings&lt;/a&gt; &amp;ndash; &lt;a href=&#34;#funding&#34;&gt;Funding opportunities&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://damariszurell.github.io/img/research_pics.png&#34; alt=&#34;birds&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;We are open to hosting postdoc, PhD, Master or Bachelor projects in my team, yet have also limited spaces. Some topics and anticipated job openings are listed below. Also own ideas are welcome and I am happy to discuss funding possibilities if the topics suit my general research aims and if I have space in the lab. Please carefully read the information listed below before contacting me.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;topics&#34;&gt;Topics - for Bachelor and Master theses as well as postdoc or PhD work&lt;/h3&gt;
-
-&lt;p&gt;We regularly supervise Master and Bachelor theses, and are happy to collaborate on PhD and postdoc projects. Please have a look at our projects and publications to get an idea what topics interest us. These include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Global change impacts on biodiversity: range and community shifts, invasive species&lt;/li&gt;
-&lt;li&gt;Species distribution modelling&lt;/li&gt;
-&lt;li&gt;Spatially explicit dynamic population models and dispersal models&lt;/li&gt;
-&lt;li&gt;Occupancy modelling (static and dynamic)&lt;/li&gt;
-&lt;li&gt;Movement ecology and animal migration: migration phenology, seasonal niches, home range strategies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most of our work is based on statistics and/or simulation models. Thus, a base understanding of R programming or C++ programming as well as statistics is prerequisite for working in our team.&lt;/p&gt;
-
-&lt;h4 id=&#34;open-thesis-topics&#34;&gt;Open thesis topics:&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://damariszurell.github.io/extras/theses/#MSc_dispersal&#34;&gt;Intra-specific variation in dispersal: a simulation approach (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://damariszurell.github.io/extras/theses/#MSc_DOM&#34;&gt;Dynamic occupancy modelling of Swiss breeding birds (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://damariszurell.github.io/extras/theses/#MSc_nicheshift&#34;&gt;Climate change-induced niche shifts in North American birds (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://damariszurell.github.io/extras/theses/#MSc_nicheasymmetry&#34;&gt;Climatic niche asymmetry in plants of the Americas (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;When approaching us for a thesis topic, please provide some more information about yourself, e.g. study programme, previous experience in R and statistics (or any other relevant skills), and your time frame.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;jobs&#34;&gt;Job openings&lt;/h3&gt;
-
-&lt;p&gt;We have no current job openings &amp;hellip;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;funding&#34;&gt;Funding opportunities for postdoc or PhD work&lt;/h3&gt;
-
-&lt;p&gt;There are possibilities of securing your own funding for individual postdoc or PhD projects, which I am happy to discuss. If you would like to carry out your own project in our team, please first check out available funding schemes (a few examples are listed below). Then, when contacting me, please send along at least a one page summary of your research idea, your CV, a time schedule and a list of potential funding schemes that you would like to apply to. You may imagine that I get more enquiries of students than I can accomodate, and it is thus important to find out whether your research fits in our team and ongoing research projects and whether it would be suitable for the envisioned funding scheme.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Funding opportunities for students/postdocs currently based outside Germany:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?status=3&amp;amp;origin=&amp;amp;subjectGrps=&amp;amp;daad=1&amp;amp;q=&amp;amp;page=1&amp;amp;back=1&#34; target=&#34;_blank&#34;&gt;DAAD&lt;/a&gt; &amp;ndash; The German Academic Exchange Service provides a PhD/Postdoc scholarship data base.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.humboldt-foundation.de/web/programmes-by-target-group.html&#34; target=&#34;_blank&#34;&gt;AvH&lt;/a&gt; &amp;ndash; The Alexander-von-Humboldt foundation offers different postdoctoral fellowships to come to Germany.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.einsteinfoundation.de/en/programmes/einstein-international-postdoctoral-fellow/&#34; target=&#34;_blank&#34;&gt;Einstein&lt;/a&gt; &amp;ndash; The Einstein Foundation offers special postdoctoral fellowships for Berlin-based working groups.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dfg.de/en/research_funding/programmes/individual/research_grants/index.html&#34; target=&#34;_blank&#34;&gt;DFG&lt;/a&gt; &amp;ndash; The German Science Foundation offers various research grants.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ec.europa.eu/programmes/horizon2020/en/h2020-section/marie-sklodowska-curie-actions&#34; target=&#34;_blank&#34;&gt;H2020&lt;/a&gt; &amp;ndash; The EU offers individual postdoctoral fellowships within the Marie Skłodowska-Curie actions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Funding opportunities for students/postdocs currently based in Germany:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.dfg.de/en/research_funding/programmes/individual/research_grants/index.html&#34; target=&#34;_blank&#34;&gt;DFG&lt;/a&gt; &amp;ndash; The German Science Foundation offers various research grants.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.dbu.de/2821.html&#34; target=&#34;_blank&#34;&gt;DBU&lt;/a&gt; &amp;ndash; The German Federal Environmental Foundation offers PhD scholarships.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

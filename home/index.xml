@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
-    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -67,13 +67,12 @@ My ResearcherID is E-2439-2012. You can also find me on ResearchGate and GoogleS
     <item>
       <title>Teaching</title>
       <link>https://damariszurell.github.io/home/teaching/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/home/teaching/</guid>
       <description>Teaching materials for practicals:
- Block course R introductory/preparatory course Practicals for MSc module Quantitative conservation biogeography: applied population modelling wit RangeShiftR
- Practicals for MSc module Macroecology and global change: macroecological analyses, species distribution modelling Short (half-day) course Introduction to species distribution modelling in R - last updated November 2020  Current teaching:
- BSc course &amp;ldquo;Introduction to scientific working in ecology&amp;rdquo;, Univ. Potsdam MSc course &amp;ldquo;R preparatory course&amp;rdquo;, Univ.</description>
+ Block course R introductory/preparatory course, Master programme &amp;ldquo;Ecology, Evolution and Conservation&amp;rdquo; Practicals for MSc module Quantitative conservation biogeography, Master programme &amp;ldquo;Ecology, Evolution and Conservation&amp;rdquo;: applied population modelling wit RangeShiftR
+ Practicals for MSc module Macroecology and global change, Master programme &amp;ldquo;Ecology, Evolution and Conservation&amp;rdquo;: macroecological analyses, species distribution modelling Practicals for MSc module Ecosystem dynamics and biodiversity, Master programme &amp;ldquo;Climate, Earth, Water, Sustainability&amp;rdquo;: species distribution modelling, spatially-explicit population modelling, general ecosystem modelling Short (half-day) course Introduction to species distribution modelling in R - last updated November 2020  Current teaching:</description>
     </item>
     
     <item>

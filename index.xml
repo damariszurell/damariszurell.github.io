@@ -6,8 +6,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Audiomonitoring</title>
+      <link>https://damariszurell.github.io/project/audiomonitoring/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/audiomonitoring/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Automated bioacoustic monitoring of birds, bats and insects&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Biodiversity - the variety of genes, species and ecosystems - is in crisis. Monitoring is key to better understand which biodiversity facets are particularly vulnerable to ongoing global change or how they benefit from conservation and restoration measures. How can we improve or even automate monitoring systems? An example with great potential are audio detectors that record biological sounds, which can then be compared with known sounds on the computer for species identification (with the help of artificial intelligence).&lt;/p&gt;
+
+&lt;p&gt;In our pilot project, we are testing the benefits and quality of automatic monitoring systems for recording different groups of species (birds, bats, insects). Also, we use the systems to answer scientific questions related to spatial and temporal dynamics of biodiversity, and the influence of various environmental conditions and disturbances.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bertrand Fournier, Landscape ecology lab, Univ. Potsdam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Current/Planned pilot studies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial distribution of species and communities along habitat gradients (e.g. open land to forest, grassland to cropland)&lt;/li&gt;
+&lt;li&gt;Temporal changes in the annual cycle of species (e.g. timing of spring and autumn migration in migratory birds, start of breeding, activity peaks in insects)&lt;/li&gt;
+&lt;li&gt;Changes in species compositions over time (e.g. after habitat changes/improvements)&lt;/li&gt;
+&lt;li&gt;Comparison of different facets of biodiversity: species diversity vs. sound diversity&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RangeShiftR</title>
+      <link>https://damariszurell.github.io/project/rangeshiftr/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/rangeshiftr/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The RangeShifter platform - an eco-evolutionary modelling framework.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies. Process-based models that explicitly integrate the different processes underpinning the responses of complex biological systems are now increasingly called for and provide opportunities (and challenges) to rapidly move forward in this endeavour. The RangeShifter software is a state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.&lt;/p&gt;
+
+&lt;p&gt;The RangeShifter platform was originally developed by our partners in Aberdeen. Our lab is mainly responsible for the accompanying R package RangeShiftR.&lt;/p&gt;
+
+&lt;p&gt;Find out more about RangeShifter and RangeShiftR on our homepage: &lt;a href=&#34;https://rangeshifter.github.io/&#34; target=&#34;_blank&#34;&gt;https://rangeshifter.github.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project team&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;University of Aberdeen: Greta Bocedi &amp;amp; Justin Travis&lt;/li&gt;
+&lt;li&gt;University of Potsdam: Anne-Kathleen Malchow, Jette Reeg, Damaris Zurell&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -674,29 +726,6 @@ we will combine our multispecies interaction models with macroecological models 
 &lt;li&gt;Thomas Sattler, Marc Kéry, Swiss Ornithological Institute, Sempach/Switzerland&lt;/li&gt;
 &lt;li&gt;Bob O’Hara, Biodiversity and Climate Research Centre (BiK-F) Frankfurt/Germany&lt;/li&gt;
 &lt;li&gt;Tamara Münkemüller, Wilfried Thuiller, Laboratoire Ecologie d’Alpine (LECA) Grenoble, France&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>PhD thesis</title>
-      <link>https://damariszurell.github.io/project/phd/</link>
-      <pubDate>Tue, 25 Oct 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/phd/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Integrating dynamic and statistical modelling approaches in order to improve predictions for scenarios of environmental change&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This was my PhD research, supported by the University of Potsdam Graduate School on Ecological Modelling.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Species respond to environmental change by dynamically adjusting their geographical ranges. Robust predictions of these changes are prerequisites to inform dynamic and sustainable conservation strategies. Correlative species distribution models (SDMs) relate species’ occurrence records to prevailing environmental factors to describe the environmental niche. They have been widely applied in global change context as they have comparably low data requirements and allow for rapid assessments of potential future species’ distributions. However, due to their static nature, transient responses to environmental change are essentially ignored in SDMs. Furthermore, neither dispersal nor demographic processes and biotic interactions are explicitly incorporated. Therefore, it has often been suggested to link statistical and mechanistic modelling approaches in order to make more realistic predictions of species’ distributions for scenarios of environmental change (e.g. Gutt et al. 2012). Here, we studied two different ways of such linkage. (i) Mechanistic modelling can act as virtual playground for testing statistical models and allows extensive exploration of specific questions. This ‘virtual ecologist’ approach is a powerful evaluation framework for testing sampling protocols, analyses and modelling tools (Zurell et al. 2010). We employed such an approach to systematically assess the effects of transient dynamics and ecological properties and processes on the prediction accuracy of SDMs for climate change projections (Zurell et al. 2009). That way, relevant mechanisms were identified that shape the species’ response to altered environmental conditions and which should hence be considered when trying to project species’ distribution through time. (ii) We supplemented SDM projections of potential future habitat for black grouse in Switzerland with an individual-based population model (Zurell et al. 2012a). By explicitly considering complex interactions between habitat availability and demographic processes, this allows for a more direct assessment of expected population response to environmental change and associated extinction risks. However, predictions were highly variable across simulations emphasising the need for principal evaluation tools like sensitivity analysis to assess uncertainty and robustness in dynamic range predictions. Furthermore, we identified data coverage of the environmental niche as a likely cause for contrasted range predictions between SDM algorithms (Zurell et al. 2012b). SDMs may fail to make reliable predictions for truncated and edge niches, meaning that portions of the niche are not represented in the data or niche edges coincide with data limits.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Boris Schröder (TU Braunschweig, Germany)&lt;/li&gt;
-&lt;li&gt;Volker Grimm (UFZ Leipzig, Germany)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://damariszurell.github.io/extras/publication_list/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
+      <description>GoogleScholar &amp;ndash; ResearcherID E-2439-2012 &amp;ndash; ResearchGate
+Journal articles - Book chapters - Miscellaneous
+Peer-reviewed journal articles preprint - in press - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - in revision
+preprint  58 &amp;ndash; Cabral JS, Mendoza-Ponce A, da Silva AP, Oberpriller J, Mimet A, Kieslinger J, Berger T, Blechschmidt J, Brönner M, Classen A, Fallert S, Hartig F, Hof C, Hoffmann M, Knoke T, Krause A, Lewerentz A, Pohle P, Raeder U, Rammig A, Redlich S, Rubanschi S, Stetter C, Weisser W, Vedder D, Verburg PH, Zurell D (2022) The road to integrate climate change effects on land-use change in regional biodiversity models.</description>
+    </item>
     
     <item>
       <title></title>
@@ -19,18 +31,6 @@
       
       <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
       <description>Lab alumni Postdocs  2018-2022 &amp;ndash; Guillermo Fandos Guzman (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how life history and environment shape dispersal in birds&amp;rdquo; 2019-2021 &amp;ndash; Christian König (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how biotic interactions shape species&amp;rsquo; niches&amp;rdquo; 2018-2020 &amp;ndash; Patrice Descombes (PhD) &amp;ndash; WSL, SPEEDMIND project &amp;ndash; Improve feedback between biodiversity analyses and citizen scientists, main Supervisor: Prof. Dr. Niklaus E. Zimmermann (WSL, Switzerland)  Research assistants  2020-2021 &amp;ndash; Simon Kapitza (M.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
-      <description>GoogleScholar &amp;ndash; ResearcherID E-2439-2012 &amp;ndash; ResearchGate
-Journal articles - Book chapters - Miscellaneous
-Peer-reviewed journal articles preprint - in press - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - in revision
-preprint  57 &amp;ndash; Cabral JS, Mendoza-Ponce A, da Silva AP, Oberpriller J, Mimet A, Kieslinger J, Berger T, Blechschmidt J, Brönner M, Classen A, Fallert S, Hartig F, Hof C, Hoffmann M, Knoke T, Krause A, Lewerentz A, Pohle P, Raeder U, Rammig A, Redlich S, Rubanschi S, Stetter C, Weisser W, Vedder D, Verburg PH, Zurell D (2022) The road to integrate climate change effects on land-use change in regional biodiversity models.</description>
     </item>
     
     <item>

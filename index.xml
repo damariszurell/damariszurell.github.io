@@ -6,136 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2021 Damaris Zurell</copyright>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title></title>
-      <link>https://damariszurell.github.io/extras/alumni_list/</link>
-      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
-      <description>
-
-&lt;h2 id=&#34;lab-alumni&#34;&gt;Lab alumni&lt;/h2&gt;
-
-&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2018-2022 &amp;ndash; &lt;a href=&#34;https://www.gfandos.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Guillermo Fandos Guzman&lt;/strong&gt;&lt;/a&gt; (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how life history and environment shape dispersal in birds&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;2019-2021 &amp;ndash; &lt;strong&gt;Christian König&lt;/strong&gt; (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how biotic interactions shape species&amp;rsquo; niches&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;2018-2020 &amp;ndash; &lt;strong&gt;Patrice Descombes&lt;/strong&gt; (PhD) &amp;ndash; WSL, SPEEDMIND project &amp;ndash; Improve feedback between biodiversity analyses and citizen scientists, main Supervisor: Prof. Dr. Niklaus E. Zimmermann (WSL, Switzerland)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;research-assistants&#34;&gt;Research assistants&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2020-2021 &amp;ndash; &lt;a href=&#34;https://kapitzas.github.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Simon Kapitza&lt;/strong&gt;&lt;/a&gt; (M.Sc.) - Univ. Potsdam &amp;ndash; data base management, biodiversity assessments, socio-economic modelling&lt;/li&gt;
-&lt;li&gt;2020-2021 &amp;ndash; &lt;strong&gt;Yari Osenberg&lt;/strong&gt; (M.Sc.) - Univ. Potsdam, CRC1294 Data assimilation &amp;ndash; modelling spatiotemporal population dynamics&lt;/li&gt;
-&lt;li&gt;2017-2018 &amp;ndash; &lt;strong&gt;Helge Gross&lt;/strong&gt; (M.Sc.) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; data management and species distribution modelling&lt;/li&gt;
-&lt;li&gt;2017-2018 &amp;ndash; &lt;strong&gt;Katarina Varga&lt;/strong&gt; (M.Sc) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; ornithologist, bird territory mapping Switzerland&lt;/li&gt;
-&lt;li&gt;2015 &amp;ndash; &lt;strong&gt;Helge Gross&lt;/strong&gt; (M.Sc.) &amp;ndash; Univ. Potsdam and WSL &amp;ndash; data management, habitat selection in white storks&lt;/li&gt;
-&lt;li&gt;2015 &amp;ndash; &lt;strong&gt;Lena Schlag&lt;/strong&gt; (M.Sc.) &amp;ndash; Univ. Potsdam and WSL &amp;ndash; home range selection in white storks&lt;/li&gt;
-&lt;li&gt;2014-2015 &amp;ndash; &lt;strong&gt;Merlin Schäfer&lt;/strong&gt; (M.Sc.) &amp;ndash; Univ. Potsdam and WSL &amp;ndash; computer scientist, optimal annual routine models for migratory animals&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;student-assistants&#34;&gt;Student assistants&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2021-2022 &amp;ndash; &lt;strong&gt;Erik Janner&lt;/strong&gt;, Univ. Potsdam, acoustic bird monitoring&lt;/li&gt;
-&lt;li&gt;2019 &amp;ndash; &lt;strong&gt;Malte Wünsche&lt;/strong&gt;, HU Berlin master programme Global Change Geography&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;master-theses&#34;&gt;Master theses&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2022 &amp;ndash; &lt;strong&gt;Nikola Halaski&lt;/strong&gt; &amp;ndash; &amp;ldquo;Understanding dispersal barriers for the Eurasian lynx in Europe&amp;rdquo; &amp;ndash; Univ. Potsdam, main Supervisor: Prof. Dr. Tobias Kümmerle (HU Berlin)&lt;/li&gt;
-&lt;li&gt;2020-2021 &amp;ndash; &lt;strong&gt;Magdalena Schmittlein&lt;/strong&gt; &amp;ndash; &amp;ldquo;Understanding current and past species abundance at landscape scale based on Ellenberg indicator values and a historical flora&amp;rdquo; &amp;ndash; Univ. Potsdam, main Supervisor: Dr. Kolja Bergholz.&lt;/li&gt;
-&lt;li&gt;2019-2020 &amp;ndash; &lt;strong&gt;Mingjian Xiahou&lt;/strong&gt; &amp;ndash; &amp;ldquo;Effects of spatial autocorrelation on dynamic occupancy models: Estimating birds range dynamics over a 14-year time period in Switzerland&amp;rdquo; &amp;ndash; HU Berlin, co-supervised by Dr. Christian König&lt;/li&gt;
-&lt;li&gt;2018-2019 &amp;ndash; &lt;strong&gt;Hendrik Bluhm&lt;/strong&gt; &amp;ndash; &amp;ldquo;Mapping habitat suitability and landscape connectivity for moose (Alces alces) in Central Europe&amp;rdquo; &amp;ndash; HU Berlin, main Supervisor: Prof. Dr. Tobias Kümmerle (HU Berlin)&lt;/li&gt;
-&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Andreas Neumann&lt;/strong&gt; &amp;ndash; &amp;ldquo;Vorhersage von Artenvielfalt und -zusammensetzung mittels überlagerter Artverbreitungsmodelle (S-SDM)&amp;rdquo; &amp;ndash; Univ. Potsdam, main Supervisor: Dr. Anna Cord (UFZ Leipzig)&lt;/li&gt;
-&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Helge Gross&lt;/strong&gt; &amp;ndash; &amp;ldquo;Multi-regional assessment of determinants of tree species diversity in Mexico&amp;rdquo; &amp;ndash; Univ. Potsdam , main Supervisor: Dr. Anna Cord (UFZ Leipzig)&lt;/li&gt;
-&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Merlin Schäfer&lt;/strong&gt; &amp;ndash; &amp;ldquo;Modeling of optimal annual routines to infer migration timing in white storks (Ciconia ciconia)&amp;rdquo; &amp;ndash; TU Berlin&lt;/li&gt;
-&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Alexandra Hinz&lt;/strong&gt; &amp;ndash; &amp;ldquo;Dynamic patterns of behaviour in breeding white storks (Ciconia ciconia): an analysis using 3-dimensional acceleration data&amp;rdquo; &amp;ndash; Univ. Potsdam&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;bachelor-theses&#34;&gt;Bachelor theses&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2022 &amp;ndash; &lt;strong&gt;Sonja Kutzner&lt;/strong&gt; - &amp;ldquo;Spatial patterns and drivers of diversity of butterflies and snails in Switzerland&amp;rdquo; &amp;ndash; Univ. Potsdam, main advisor: Prof. Dr. Bertrand Fournier&lt;/li&gt;
-&lt;li&gt;2021 &amp;ndash; &lt;strong&gt;Elisabeth Riegel&lt;/strong&gt; - &amp;ldquo;Variation in white stork movement behavior within and between years&amp;rdquo; &amp;ndash; Univ. Potsdam&lt;/li&gt;
-&lt;li&gt;2021 &amp;ndash; &lt;strong&gt;Bennett Stolze&lt;/strong&gt; - &amp;ldquo;Estimating seasonal niche tracking behaviour of white storks using citizen-science data&amp;rdquo; &amp;ndash; FU Berlin&lt;/li&gt;
-&lt;li&gt;2019 &amp;ndash; &lt;strong&gt;Valentin Woitek&lt;/strong&gt; &amp;ndash; “Einfluß das Extremwetterjahres 2018 auf die Stadt- und Landimkerei und auf die Honigbienen” &amp;ndash; HU Berlin, main advisor: Prof. Christoph Schneider (HU Berlin)&lt;/li&gt;
-&lt;li&gt;2018 &amp;ndash; &lt;strong&gt;Florina Ley&lt;/strong&gt; &amp;ndash; “Testing for a relationship between climate indicator and chamois (R. Rupicapra) body weight in Berchtesgaden National Park” &amp;ndash; HU Berlin, main Supervisor: Prof. Dr. Tobias Kümmerle (HU Berlin)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;interns&#34;&gt;Interns&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2021 &amp;ndash; &lt;strong&gt;Jose Vindas&lt;/strong&gt; -  Niche modelling of marine biodiversity in Macaronesia &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
-&lt;li&gt;2014 &amp;ndash; &lt;strong&gt;Ruben Ulbrich&lt;/strong&gt; &amp;ndash; &amp;ldquo;Species distribution modelling of invasive species using presence-only data&amp;rdquo; &amp;ndash; Intern, Univ. Namibia&lt;/li&gt;
-&lt;li&gt;2013 &amp;ndash; &lt;strong&gt;Marianne Meinel&lt;/strong&gt; &amp;ndash; &amp;ldquo;Validation of flight behaviour and wing beat frequency from ACC signal by video surveillance&amp;rdquo; &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
-&lt;li&gt;2013 &amp;ndash; &lt;strong&gt;Simon Wohlfahrt&lt;/strong&gt; &amp;ndash; field assistant, GPS tracking white storks, ACC behavioural observations &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Audiomonitoring</title>
-      <link>https://damariszurell.github.io/project/audiomonitoring/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/audiomonitoring/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Automated bioacoustic monitoring of birds, bats and insects&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Biodiversity - the variety of genes, species and ecosystems - is in crisis. Monitoring is key to better understand which biodiversity facets are particularly vulnerable to ongoing global change or how they benefit from conservation and restoration measures. How can we improve or even automate monitoring systems? An example with great potential are audio detectors that record biological sounds, which can then be compared with known sounds on the computer for species identification (with the help of artificial intelligence).&lt;/p&gt;
-
-&lt;p&gt;In our pilot project, we are testing the benefits and quality of automatic monitoring systems for recording different groups of species (birds, bats, insects). Also, we use the systems to answer scientific questions related to spatial and temporal dynamics of biodiversity, and the influence of various environmental conditions and disturbances.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Bertrand Fournier, Landscape ecology lab, Univ. Potsdam&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Current/Planned pilot studies&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Spatial distribution of species and communities along habitat gradients (e.g. open land to forest, grassland to cropland)&lt;/li&gt;
-&lt;li&gt;Temporal changes in the annual cycle of species (e.g. timing of spring and autumn migration in migratory birds, start of breeding, activity peaks in insects)&lt;/li&gt;
-&lt;li&gt;Changes in species compositions over time (e.g. after habitat changes/improvements)&lt;/li&gt;
-&lt;li&gt;Comparison of different facets of biodiversity: species diversity vs. sound diversity&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RangeShiftR</title>
-      <link>https://damariszurell.github.io/project/rangeshiftr/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/rangeshiftr/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;The RangeShifter platform - an eco-evolutionary modelling framework.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies. Process-based models that explicitly integrate the different processes underpinning the responses of complex biological systems are now increasingly called for and provide opportunities (and challenges) to rapidly move forward in this endeavour. The RangeShifter software is a state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.&lt;/p&gt;
-
-&lt;p&gt;The RangeShifter platform was originally developed by our partners in Aberdeen. Our lab is mainly responsible for the accompanying R package RangeShiftR.&lt;/p&gt;
-
-&lt;p&gt;Find out more about RangeShifter and RangeShiftR on our homepage: &lt;a href=&#34;https://rangeshifter.github.io/&#34; target=&#34;_blank&#34;&gt;https://rangeshifter.github.io/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Project team&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;University of Aberdeen: Greta Bocedi &amp;amp; Justin Travis&lt;/li&gt;
-&lt;li&gt;University of Potsdam: Anne-Kathleen Malchow, Jette Reeg, Damaris Zurell&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>Publications</title>
       <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/extras/publication_list/</guid>
       <description>
@@ -153,18 +30,19 @@
 &lt;h5 id=&#34;preprint&#34;&gt;preprint&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;57 &amp;ndash; Cabral JS, Mendoza-Ponce A, da Silva AP, Oberpriller J, Mimet A, Kieslinger J, Berger T, Blechschmidt J, Brönner M, Classen A, Fallert S, Hartig F, Hof C, Hoffmann M, Knoke T, Krause A, Lewerentz A, Pohle P, Raeder U, Rammig A, Redlich S, Rubanschi S, Stetter C, Weisser W, Vedder D, Verburg PH, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) The road to integrate climate change effects on land-use change in regional biodiversity models. Authorea. DOI: &lt;a href=&#34;https://doi.org/10.22541/au.164608831.19029067/v1&#34; target=&#34;_blank&#34;&gt;10.22541/au.164608831.19029067/v1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;56 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;55 &amp;ndash; Fandos G, Talluto M, Fiedler W, Robinson RA, Thorup K, &lt;strong&gt;Zurell D&lt;/strong&gt; (2021) Standardised empirical dispersal kernels emphasise the pervasiveness of long-distance dispersal in European birds. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2021.11.08.467775&#34; target=&#34;_blank&#34;&gt;10.1101/2021.11.08.467775&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;54 &amp;ndash; Karger DN, Saladin B, Wüest-Karpati RO, Graham CH, &lt;strong&gt;Zurell D&lt;/strong&gt;, Mo L, Zimmermann NE (2021) Interannual climate variability data improves niche estimates in species distribution models. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2021.08.30.458152&#34; target=&#34;_blank&#34;&gt;10.1101/2021.08.30.458152&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;53 &amp;ndash; Malchow AK, Fandos G, Kormann U, Grüebler M, Kéry M, Hartig F, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Fitting individual-based models of species range dynamics to long-term monitoring data. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.26.509574&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.26.509574&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;52 &amp;ndash; Malchow AK, Hartig F, Reeg J, Kéry M, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Demography-environment relationships improve mechanistic understanding of range dynamics under climate change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.23.509134&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.23.509134&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;58 &amp;ndash; Cabral JS, Mendoza-Ponce A, da Silva AP, Oberpriller J, Mimet A, Kieslinger J, Berger T, Blechschmidt J, Brönner M, Classen A, Fallert S, Hartig F, Hof C, Hoffmann M, Knoke T, Krause A, Lewerentz A, Pohle P, Raeder U, Rammig A, Redlich S, Rubanschi S, Stetter C, Weisser W, Vedder D, Verburg PH, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) The road to integrate climate change effects on land-use change in regional biodiversity models. Authorea. DOI: &lt;a href=&#34;https://doi.org/10.22541/au.164608831.19029067/v1&#34; target=&#34;_blank&#34;&gt;10.22541/au.164608831.19029067/v1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;57 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;56 &amp;ndash; Fandos G, Talluto M, Fiedler W, Robinson RA, Thorup K, &lt;strong&gt;Zurell D&lt;/strong&gt; (2021) Standardised empirical dispersal kernels emphasise the pervasiveness of long-distance dispersal in European birds. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2021.11.08.467775&#34; target=&#34;_blank&#34;&gt;10.1101/2021.11.08.467775&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;55 &amp;ndash; Karger DN, Saladin B, Wüest-Karpati RO, Graham CH, &lt;strong&gt;Zurell D&lt;/strong&gt;, Mo L, Zimmermann NE (2021) Interannual climate variability data improves niche estimates in species distribution models. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2021.08.30.458152&#34; target=&#34;_blank&#34;&gt;10.1101/2021.08.30.458152&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;54 &amp;ndash; Malchow AK, Fandos G, Kormann U, Grüebler M, Kéry M, Hartig F, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Fitting individual-based models of species range dynamics to long-term monitoring data. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.26.509574&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.26.509574&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;53 &amp;ndash; Malchow AK, Hartig F, Reeg J, Kéry M, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Demography-environment relationships improve mechanistic understanding of range dynamics under climate change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.23.509134&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.23.509134&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;press&#34;&gt;in press&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;51 &amp;ndash; Pratzer M, Nill L, Kümmerle T, &lt;strong&gt;Zurell D&lt;/strong&gt;, Fandos G (accepted) Large carnivore range expansion in Iberia in relation to different scenarios of permeability of human-dominated landscapes. Diversity and Distributions.&lt;/li&gt;
+&lt;li&gt;52 &amp;ndash; Pratzer M, Nill L, Kümmerle T, &lt;strong&gt;Zurell D&lt;/strong&gt;, Fandos G (accepted) Large carnivore range expansion in Iberia in relation to different scenarios of permeability of human-dominated landscapes. Diversity and Distributions.&lt;/li&gt;
+&lt;li&gt;53 &amp;ndash; Southwell D, Skroblin A, Moseby K, Southgate R, Indigo N, Backhouse B, Bellchambers K, Brandle R, Brenton P, Copley P, Dziminski M, Galindez-Silva C, Lynch C, Newman P, Pedler R, Rogers D, Roshier D, Ryan-Colton E, Tuft K, Ward M, &lt;strong&gt;Zurell D&lt;/strong&gt;, Legge S (accepted) Designing a large-scale track-based monitoring program to detect changes in species distributions in arid Australia. Ecological Applications.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;pub-2022&#34;&gt;2022&lt;/h5&gt;
@@ -295,6 +173,129 @@
 
 &lt;ul&gt;
 &lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2020) Good practice guidelines for testing species-isolation relationships in patch-matrix systems. Peer Community in Ecology: 100055. &lt;a href=&#34;https://doi.org/10.24072/pci.ecology.100055&#34; target=&#34;_blank&#34;&gt;10.24072/pci.ecology.100055&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://damariszurell.github.io/extras/alumni_list/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
+      <description>
+
+&lt;h2 id=&#34;lab-alumni&#34;&gt;Lab alumni&lt;/h2&gt;
+
+&lt;h4 id=&#34;postdocs&#34;&gt;Postdocs&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2018-2022 &amp;ndash; &lt;a href=&#34;https://www.gfandos.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Guillermo Fandos Guzman&lt;/strong&gt;&lt;/a&gt; (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how life history and environment shape dispersal in birds&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;2019-2021 &amp;ndash; &lt;strong&gt;Christian König&lt;/strong&gt; (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how biotic interactions shape species&amp;rsquo; niches&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;2018-2020 &amp;ndash; &lt;strong&gt;Patrice Descombes&lt;/strong&gt; (PhD) &amp;ndash; WSL, SPEEDMIND project &amp;ndash; Improve feedback between biodiversity analyses and citizen scientists, main Supervisor: Prof. Dr. Niklaus E. Zimmermann (WSL, Switzerland)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;research-assistants&#34;&gt;Research assistants&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2020-2021 &amp;ndash; &lt;a href=&#34;https://kapitzas.github.io/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Simon Kapitza&lt;/strong&gt;&lt;/a&gt; (M.Sc.) - Univ. Potsdam &amp;ndash; data base management, biodiversity assessments, socio-economic modelling&lt;/li&gt;
+&lt;li&gt;2020-2021 &amp;ndash; &lt;strong&gt;Yari Osenberg&lt;/strong&gt; (M.Sc.) - Univ. Potsdam, CRC1294 Data assimilation &amp;ndash; modelling spatiotemporal population dynamics&lt;/li&gt;
+&lt;li&gt;2017-2018 &amp;ndash; &lt;strong&gt;Helge Gross&lt;/strong&gt; (M.Sc.) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; data management and species distribution modelling&lt;/li&gt;
+&lt;li&gt;2017-2018 &amp;ndash; &lt;strong&gt;Katarina Varga&lt;/strong&gt; (M.Sc) &amp;ndash; WSL, SCODA project (SNF) &amp;ndash; ornithologist, bird territory mapping Switzerland&lt;/li&gt;
+&lt;li&gt;2015 &amp;ndash; &lt;strong&gt;Helge Gross&lt;/strong&gt; (M.Sc.) &amp;ndash; Univ. Potsdam and WSL &amp;ndash; data management, habitat selection in white storks&lt;/li&gt;
+&lt;li&gt;2015 &amp;ndash; &lt;strong&gt;Lena Schlag&lt;/strong&gt; (M.Sc.) &amp;ndash; Univ. Potsdam and WSL &amp;ndash; home range selection in white storks&lt;/li&gt;
+&lt;li&gt;2014-2015 &amp;ndash; &lt;strong&gt;Merlin Schäfer&lt;/strong&gt; (M.Sc.) &amp;ndash; Univ. Potsdam and WSL &amp;ndash; computer scientist, optimal annual routine models for migratory animals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;student-assistants&#34;&gt;Student assistants&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2021-2022 &amp;ndash; &lt;strong&gt;Erik Janner&lt;/strong&gt;, Univ. Potsdam, acoustic bird monitoring&lt;/li&gt;
+&lt;li&gt;2019 &amp;ndash; &lt;strong&gt;Malte Wünsche&lt;/strong&gt;, HU Berlin master programme Global Change Geography&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;master-theses&#34;&gt;Master theses&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2022 &amp;ndash; &lt;strong&gt;Nikola Halaski&lt;/strong&gt; &amp;ndash; &amp;ldquo;Understanding dispersal barriers for the Eurasian lynx in Europe&amp;rdquo; &amp;ndash; Univ. Potsdam, main Supervisor: Prof. Dr. Tobias Kümmerle (HU Berlin)&lt;/li&gt;
+&lt;li&gt;2020-2021 &amp;ndash; &lt;strong&gt;Magdalena Schmittlein&lt;/strong&gt; &amp;ndash; &amp;ldquo;Understanding current and past species abundance at landscape scale based on Ellenberg indicator values and a historical flora&amp;rdquo; &amp;ndash; Univ. Potsdam, main Supervisor: Dr. Kolja Bergholz.&lt;/li&gt;
+&lt;li&gt;2019-2020 &amp;ndash; &lt;strong&gt;Mingjian Xiahou&lt;/strong&gt; &amp;ndash; &amp;ldquo;Effects of spatial autocorrelation on dynamic occupancy models: Estimating birds range dynamics over a 14-year time period in Switzerland&amp;rdquo; &amp;ndash; HU Berlin, co-supervised by Dr. Christian König&lt;/li&gt;
+&lt;li&gt;2018-2019 &amp;ndash; &lt;strong&gt;Hendrik Bluhm&lt;/strong&gt; &amp;ndash; &amp;ldquo;Mapping habitat suitability and landscape connectivity for moose (Alces alces) in Central Europe&amp;rdquo; &amp;ndash; HU Berlin, main Supervisor: Prof. Dr. Tobias Kümmerle (HU Berlin)&lt;/li&gt;
+&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Andreas Neumann&lt;/strong&gt; &amp;ndash; &amp;ldquo;Vorhersage von Artenvielfalt und -zusammensetzung mittels überlagerter Artverbreitungsmodelle (S-SDM)&amp;rdquo; &amp;ndash; Univ. Potsdam, main Supervisor: Dr. Anna Cord (UFZ Leipzig)&lt;/li&gt;
+&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Helge Gross&lt;/strong&gt; &amp;ndash; &amp;ldquo;Multi-regional assessment of determinants of tree species diversity in Mexico&amp;rdquo; &amp;ndash; Univ. Potsdam , main Supervisor: Dr. Anna Cord (UFZ Leipzig)&lt;/li&gt;
+&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Merlin Schäfer&lt;/strong&gt; &amp;ndash; &amp;ldquo;Modeling of optimal annual routines to infer migration timing in white storks (Ciconia ciconia)&amp;rdquo; &amp;ndash; TU Berlin&lt;/li&gt;
+&lt;li&gt;2013-2014 &amp;ndash; &lt;strong&gt;Alexandra Hinz&lt;/strong&gt; &amp;ndash; &amp;ldquo;Dynamic patterns of behaviour in breeding white storks (Ciconia ciconia): an analysis using 3-dimensional acceleration data&amp;rdquo; &amp;ndash; Univ. Potsdam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;bachelor-theses&#34;&gt;Bachelor theses&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2022 &amp;ndash; &lt;strong&gt;Sonja Kutzner&lt;/strong&gt; - &amp;ldquo;Spatial patterns and drivers of diversity of butterflies and snails in Switzerland&amp;rdquo; &amp;ndash; Univ. Potsdam, main advisor: Prof. Dr. Bertrand Fournier&lt;/li&gt;
+&lt;li&gt;2021 &amp;ndash; &lt;strong&gt;Elisabeth Riegel&lt;/strong&gt; - &amp;ldquo;Variation in white stork movement behavior within and between years&amp;rdquo; &amp;ndash; Univ. Potsdam&lt;/li&gt;
+&lt;li&gt;2021 &amp;ndash; &lt;strong&gt;Bennett Stolze&lt;/strong&gt; - &amp;ldquo;Estimating seasonal niche tracking behaviour of white storks using citizen-science data&amp;rdquo; &amp;ndash; FU Berlin&lt;/li&gt;
+&lt;li&gt;2019 &amp;ndash; &lt;strong&gt;Valentin Woitek&lt;/strong&gt; &amp;ndash; “Einfluß das Extremwetterjahres 2018 auf die Stadt- und Landimkerei und auf die Honigbienen” &amp;ndash; HU Berlin, main advisor: Prof. Christoph Schneider (HU Berlin)&lt;/li&gt;
+&lt;li&gt;2018 &amp;ndash; &lt;strong&gt;Florina Ley&lt;/strong&gt; &amp;ndash; “Testing for a relationship between climate indicator and chamois (R. Rupicapra) body weight in Berchtesgaden National Park” &amp;ndash; HU Berlin, main Supervisor: Prof. Dr. Tobias Kümmerle (HU Berlin)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;interns&#34;&gt;Interns&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2021 &amp;ndash; &lt;strong&gt;Jose Vindas&lt;/strong&gt; -  Niche modelling of marine biodiversity in Macaronesia &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
+&lt;li&gt;2014 &amp;ndash; &lt;strong&gt;Ruben Ulbrich&lt;/strong&gt; &amp;ndash; &amp;ldquo;Species distribution modelling of invasive species using presence-only data&amp;rdquo; &amp;ndash; Intern, Univ. Namibia&lt;/li&gt;
+&lt;li&gt;2013 &amp;ndash; &lt;strong&gt;Marianne Meinel&lt;/strong&gt; &amp;ndash; &amp;ldquo;Validation of flight behaviour and wing beat frequency from ACC signal by video surveillance&amp;rdquo; &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
+&lt;li&gt;2013 &amp;ndash; &lt;strong&gt;Simon Wohlfahrt&lt;/strong&gt; &amp;ndash; field assistant, GPS tracking white storks, ACC behavioural observations &amp;ndash; Intern, Univ. Potsdam&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Audiomonitoring</title>
+      <link>https://damariszurell.github.io/project/audiomonitoring/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/audiomonitoring/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Automated bioacoustic monitoring of birds, bats and insects&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Biodiversity - the variety of genes, species and ecosystems - is in crisis. Monitoring is key to better understand which biodiversity facets are particularly vulnerable to ongoing global change or how they benefit from conservation and restoration measures. How can we improve or even automate monitoring systems? An example with great potential are audio detectors that record biological sounds, which can then be compared with known sounds on the computer for species identification (with the help of artificial intelligence).&lt;/p&gt;
+
+&lt;p&gt;In our pilot project, we are testing the benefits and quality of automatic monitoring systems for recording different groups of species (birds, bats, insects). Also, we use the systems to answer scientific questions related to spatial and temporal dynamics of biodiversity, and the influence of various environmental conditions and disturbances.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bertrand Fournier, Landscape ecology lab, Univ. Potsdam&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Current/Planned pilot studies&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Spatial distribution of species and communities along habitat gradients (e.g. open land to forest, grassland to cropland)&lt;/li&gt;
+&lt;li&gt;Temporal changes in the annual cycle of species (e.g. timing of spring and autumn migration in migratory birds, start of breeding, activity peaks in insects)&lt;/li&gt;
+&lt;li&gt;Changes in species compositions over time (e.g. after habitat changes/improvements)&lt;/li&gt;
+&lt;li&gt;Comparison of different facets of biodiversity: species diversity vs. sound diversity&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RangeShiftR</title>
+      <link>https://damariszurell.github.io/project/rangeshiftr/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/rangeshiftr/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The RangeShifter platform - an eco-evolutionary modelling framework.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As anthropogenic environmental changes accelerate and threaten species’ persistence and associated ecosystem services, major tasks for scientists are to predict biological responses to different and interacting pressures, and to design effective management strategies. Process-based models that explicitly integrate the different processes underpinning the responses of complex biological systems are now increasingly called for and provide opportunities (and challenges) to rapidly move forward in this endeavour. The RangeShifter software is a state-of-the-art eco-evolutionary modelling platform that is becoming increasingly used worldwide for both theoretical and applied purposes.&lt;/p&gt;
+
+&lt;p&gt;The RangeShifter platform was originally developed by our partners in Aberdeen. Our lab is mainly responsible for the accompanying R package RangeShiftR.&lt;/p&gt;
+
+&lt;p&gt;Find out more about RangeShifter and RangeShiftR on our homepage: &lt;a href=&#34;https://rangeshifter.github.io/&#34; target=&#34;_blank&#34;&gt;https://rangeshifter.github.io/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project team&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;University of Aberdeen: Greta Bocedi &amp;amp; Justin Travis&lt;/li&gt;
+&lt;li&gt;University of Potsdam: Anne-Kathleen Malchow, Jette Reeg, Damaris Zurell&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

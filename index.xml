@@ -6,8 +6,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DEBTs</title>
+      <link>https://damariszurell.github.io/project/debts/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/debts/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Detecting and attributing biodiversity trends – drivers of past and future population and community dynamics in North American breeding birds (DEBTs)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the German Science Foundation DFG (2023-2026; Grant no. ZU 361.6-1 to Damaris Zurell)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The key aim of DEBTs is to develop and operationalise a new process-explicit ensemble model framework to detect, attribute and project biodiversity trends. This framework will allow disentangling the importance of abiotic and biotic drivers on observed biodiversity changes to make more robust biodiversity predictions under scenarios of global change. DEBTs will focus on a 50-year time series of North American breeding bird counts as a unique long-term and geographically broad data set, which provides an ideal test case for comparing multi-model performance on historic data and for quantifying transient dynamics from recent environmental change and resulting future colonisation credits and extinction debts. Explicit uncertainty assessments will pinpoint important sources of uncertainty and help guide future monitoring efforts. An international research workshop with leading scientists in the field will synthesise the results gained from the case study and will develop an agenda for implementing regional terrestrial biodiversity model intercomparisons across taxonomic groups and regions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Greta Bocedi (Univ. Aberdeen, UK)&lt;/li&gt;
+&lt;li&gt;Natalie Briscoe (Univ. Melbourne, Australia)&lt;/li&gt;
+&lt;li&gt;Brendan Wintle (Univ. Melbourne, Australia)&lt;/li&gt;
+&lt;li&gt;Mark Urban (Univ. Connecticut, USA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NichePac</title>
+      <link>https://damariszurell.github.io/project/nichepac/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/nichepac/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Invaders on the move – niche and spread dynamics of introduced alien plants in the Pacific (NichePac)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the German Science Foundation DFG (2023-2026; Grant no. ZU 361.3-1 to Damaris Zurell)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The key aim of NichePac is to improve our understanding of the mechanisms driving niche dynamics and spread of alien plants. We will use the Pacific region as a model system as it hosts exceptionally high numbers of alien plants, many of which have also naturalized in other parts of the world. In the project, we will (i) quantify observed niche shifts between native ranges and invaded mainland vs. invaded island systems, (ii) assess the naturalization potential of alien plants in the Pacific region as well as the predictors explaining their establishment success, and (iii) predict spatiotemporal spread dynamics and spatiotemporal hotspots of potential plant invasions. Overall, this will allow an improved predictive capacity of potential future naturalization and spread of alien species, contributing to the scientific basis of conservation and management of invasive species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Juliano Sarmento Cabral (Univ. Birmingham, UK)&lt;/li&gt;
+&lt;li&gt;Tiffany Knight (Martin-Luther-University Halle-Wittenberg, German Centre for Integrative Biodiversity Research iDiv, Germany)&lt;/li&gt;
+&lt;li&gt;Hanno Seebens (Senckenberg BIK-F, Germany)&lt;/li&gt;
+&lt;li&gt;Patrick Weigelt (Georg-August-University Göttingen, Germany)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -689,49 +743,6 @@ International Biogeography Society (IBS)&lt;/p&gt;
 
 &lt;p&gt;R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in &lt;a href=&#34;https://damariszurell.github.io/extras/publication_list#pub-2012&#34;&gt;Zurell et al. (2012) DDI&lt;/a&gt;.
 &lt;img src=&#34;https://damariszurell.github.io/img/downloads/inflatedResponseCurves.png&#34; alt=&#34;InflatedResponse&#34; /&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SCODA</title>
-      <link>https://damariszurell.github.io/project/scoda/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/scoda/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Scaling from individual interactions to community dynamics in avian assemblages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This research is supported by an Ambizione fellowship by the Swiss National Science Foundation (2016-2019; Grant no. PZ00P3_168136 to Damaris Zurell)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Biodiversity loss due to global environmental change is expected to increase rapidly throughout the 21st century posing a major challenge to nature conservation and society. In order to anticipate and mitigate negative impacts on ecosystem functions and services, models are needed that reliably depict the abiotic and biotic drivers that determine species and community response to environmental change. Correlative species distribution models (SDMs) have been widely used in this context, but remain criticised for only implicitly accounting for interspecific interactions and for not being able to properly disentangle the fundamental and realised niche of a species. Recently, new tools have been introduced that integrate SDMs with community ecological methods of co-occurrence analyses. So-called joint species distribution models (JSDMs) simultaneously estimate the distribution of multiple species and allow partitioning species co-occurrence patterns into species-specific environmental responses and residual correlations between species, which may result from interspecific interactions but also from unmeasured environmental factors. JSDMs provide an exciting development in macroecology and community ecology, but are still in its infancy with few available applications and without rigorous evaluation. Important questions remain regarding, for example, the scale dependence and spatiotemporal variation in interspecific interaction mechanisms and their effect on JSDM performance, the specific data needed for reliably identifying these mechanisms, and the applicability of JSDMs for climate impact assessments.&lt;/p&gt;
-
-&lt;p&gt;This project will focus on Swiss avian communities and aims at: (1) evaluating the ability of JSDMs to detect and reliably quantify different interspecific interaction mechanisms, and to predict avian communities under scenarios of climate change; (2) evaluating the scale dependence of interspecific interaction processes in avian assemblages and their relation to functional traits; (3) assessing the extent of spatial and temporal variation in interspecific interactions for selected bird assemblages; and (4) incorporating trait information into JSDMs to understand how behavioural syndromes mediate interspecific interactions in birds. To achieve these goals, the project will make use of the extensive bird monitoring programmes of Switzerland in close collaboration with the Swiss Ornithological Institute, supplemented by targeted simulation experiments that allow testing the models against specific underlying assumptions. The project is expected to provide both theoretical and conceptual advancements in model-based predictions of species range and community changes by explicitly studying the link between local scale biotic interactions and large-scale avian community patterns, and by combining extensive empirical and theoretical analyses to define practical requirements and guidelines for the implementation of community assemblage predictions. Moreover, it will help understanding the complexities of Swiss avian assemblages and help anticipating potential environmental change-induced changes to Swiss avian diversity.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Catherine H Graham, Rafael O Wüest and Niklaus E Zimmermann, WSL, Switzerland&lt;/li&gt;
-&lt;li&gt;Thomas Sattler and Marc Kéry, Swiss Ornithological Institute, Sempach, Switzerland&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SPEEDMIND</title>
-      <link>https://damariszurell.github.io/project/speedmind/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/speedmind/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Improving species biodiversity analyses and citizen science feedback through mining data&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Interdisciplinary project funded by the Swiss Data Science Center (ETH board, 2017-2019; awarded to Niklaus E. Zimmermann, and co-PIs Dirk N. Karger and Damaris Zurell).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In order to conserve and manage biodiversity, we need an improved understanding of essential biodiversity drivers and improved predictions of resulting biodiversity patterns in space and time. Here, we propose a novel approach based on data-mining and iterative machine learning to improve biodiversity models and to better exploit existing data as well as guide future data sampling efforts. Modern data-mining techniques are destined to improve traditional species distribution modelling. On the one hand, massive amounts of biodiversity data are becoming available through citizen science and technical advances in monitoring, with increasing data of species occurrence, morphological traits, evolutionary history, and environmental variables. On the other hand, these data are often incomplete in that clear sampling designs are missing and information is not equally accurate or complete for all species. These data gaps could be filled by modern machine learning algorithms that are able to find a way through the maze of uncertainties in these data, in which scientists so easily get lost.&lt;/p&gt;
-
-&lt;p&gt;Applicable to any species group world-wide, the proposed project will focus on floristic data from Switzerland as a pilot system to set up and study the benefits of data-mining and machine learning techniques for facilitating biodiversity assessments. Structured into four work packages, the project will combine various data sources in a novel way and foster the link between ecological sciences and citizen science. By that, it will pave the way towards automated quality checks in citizen science data, improved uncertainty analyses and identification of hidden information in large scale biodiversity inventories, and real-time guidance of observer efforts in citizen science based data collection. Key milestones of the project include: a) an operative framework linking real-time data streams and a citizen science interface, b) iteratively model the distribution of individual species and associated spatiotemporal uncertainty patterns using machine learning and data-mining, c) a meta-learning to detect ecologically relevant, higher-level processes structuring biodiversity, and d) a model-based catalogue of criteria for guiding citizen scientists for improved data collection.&lt;/p&gt;
 </description>
     </item>
     

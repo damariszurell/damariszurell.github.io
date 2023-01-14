@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/tags/pi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DEBTs</title>
+      <link>https://damariszurell.github.io/project/debts/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/debts/</guid>
+      <description>Drivers of past and future population and community dynamics in North American breeding birds - funded by the German Science Foundation DFG (2023-2026).</description>
+    </item>
+    
+    <item>
+      <title>NichePac</title>
+      <link>https://damariszurell.github.io/project/nichepac/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/nichepac/</guid>
+      <description>Niche and spread dynamics of introduced alien plants in Pacific - funded by the German Science Foundation DFG (2023-2026).</description>
+    </item>
     
     <item>
       <title>Audiomonitoring</title>

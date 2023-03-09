@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>copi</title>
+      <link>https://damariszurell.github.io/tags/copi/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/tags/copi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>pi</title>
@@ -18,15 +27,6 @@
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/tags/pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>copi</title>
-      <link>https://damariszurell.github.io/tags/copi/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/tags/copi/</guid>
       <description></description>
     </item>
     

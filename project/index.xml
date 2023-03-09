@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BirdWatch</title>
+      <link>https://damariszurell.github.io/project/birdwatch/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/birdwatch/</guid>
+      <description>Copernicus-based service for the improvement of habitat suitability of farmland birds - funded by HORIZON-EUSPA-2021-SPACE (2023-2026).</description>
+    </item>
     
     <item>
       <title>DEBTs</title>

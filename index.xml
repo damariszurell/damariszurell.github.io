@@ -6,8 +6,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BirdWatch</title>
+      <link>https://damariszurell.github.io/project/birdwatch/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/birdwatch/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://birdwatch-eu.lup-umwelt.de/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;BirdWatch - a Copernicus-based service for the improvement of habitat suitability of farmland birds via satellite-enabled monitoring, evaluation and optimisation of CAP greening measures&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the Horizon Europe research and innovation programme (2023-2026; HORIZON-EUSPA-2021-SPACE, Grant agreement no. 101082634)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BirdWatch will support the restoration of spatial heterogeneity on farmland, a necessary component in the lasting recovery of our ecosystems. Farmland is a major source of our food and farmland biodiversity is vital for our subsistence, at least when it is in a healthy condition. BirdWatch will make this monitoring of farmland habitat suitability, a product of both rigorous species distribution modelling and EO data-based geospatial features of the individual farmland parcels, freely accessible to various stakeholders and the interested public. The bird species’ requirements regarding their habitat are the guiding factor of the habitat suitability assessment. With the knowledge on farmland bird habitat requirements and the capability to monitor farmland in terms of habitat suitability opens up the possibility to optimise the structural makeup of farmland and associated greening measures. Combined with the requirements of local stakeholders, including their budgetary and operational constraints, BirdWatch becomes a tool for the optimisation of greening measures both ins terms of farmland bird species requirements and stakeholder constraints. With more effective greening measures at optimised cost, farmers will be supported to increasingly reach ecological and economical sustainability. This will alleviate the burden of costs and economic pressure, thus incentivising landowners to take action towards the improvement of their lands. Additionally, economic instruments such as the CAP or the EAFRD which distribute financial aid to sustainable and organic farming activities will be provided with evidence-based support in monitoring compliance with national and EU biodiversity regulations and the definition of new, increasingly effective policies. With an evidence-based view on biodiversity and the effectiveness of greening measures, BirdWatch encourages the improvement in the communication and mutual understanding between scientists, farmers and administrative bodies.&lt;/p&gt;
+
+&lt;p&gt;The Macroecology Lab leads the work package WP4000.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project partners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coordination: LUP - Luftbild Umwelt Planung GmbH (&lt;a href=&#34;https://www.lup-umwelt.de&#34; target=&#34;_blank&#34;&gt;https://www.lup-umwelt.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Eurac Research (&lt;a href=&#34;https://www.eurac.edu/en&#34; target=&#34;_blank&#34;&gt;https://www.eurac.edu/en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania (&lt;a href=&#34;https://www.nma.lt&#34; target=&#34;_blank&#34;&gt;https://www.nma.lt&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;VITO Head Office (&lt;a href=&#34;https://vito.be/en&#34; target=&#34;_blank&#34;&gt;https://vito.be/en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sinergise laboratory for geographical information systems, Ltd. (&lt;a href=&#34;https://www.sinergise.com&#34; target=&#34;_blank&#34;&gt;https://www.sinergise.com&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Agro Digital Solutions (&lt;a href=&#34;https://www.agrodigitalsolutions.eu&#34; target=&#34;_blank&#34;&gt;https://www.agrodigitalsolutions.eu&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -732,33 +763,6 @@ International Biogeography Society (IBS)&lt;/p&gt;
 &lt;li&gt;Wolfgang Fiedler, MPIO Radolfzell, Germany&lt;/li&gt;
 &lt;li&gt;Tobias Kümmerle, HU Berlin, Germany&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Downloads</title>
-      <link>https://damariszurell.github.io/extras/downloads/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/downloads/</guid>
-      <description>
-
-&lt;p&gt;You can download some of my codes from &lt;a href=&#34;https://github.com/damariszurell&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;my github site&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;repository-ibm-optimalforaging-https-github-com-damariszurell-ibm-optimalforaging&#34;&gt;Repository &lt;a href=&#34;https://github.com/damariszurell/IBM_OptimalForaging&#34; target=&#34;_blank&#34;&gt;IBM_OptimalForaging&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;C++ codes for individual-based foraging model described in &lt;a href=&#34;https://damariszurell.github.io/extras/publication_list#pub-2015&#34;&gt;Zurell et al. (2015) Oikos&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://damariszurell.github.io/img/downloads/stork_IBM.png&#34; alt=&#34;IBM_OptimalForaging&#34; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;repository-rcodes-mapnovelenvironments-sdms-https-github-com-damariszurell-rcodes-mapnovelenvironments-sdms&#34;&gt;Repository &lt;a href=&#34;https://github.com/damariszurell/Rcodes_MapNovelEnvironments_SDMs&#34; target=&#34;_blank&#34;&gt;Rcodes_MapNovelEnvironments_SDMs&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in &lt;a href=&#34;https://damariszurell.github.io/extras/publication_list#pub-2012&#34;&gt;Zurell et al. (2012) DDI&lt;/a&gt;.
-&lt;img src=&#34;https://damariszurell.github.io/img/downloads/inflatedResponseCurves.png&#34; alt=&#34;InflatedResponse&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

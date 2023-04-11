@@ -6,44 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>BirdWatch</title>
-      <link>https://damariszurell.github.io/project/birdwatch/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/birdwatch/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://birdwatch-eu.lup-umwelt.de/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;BirdWatch - a Copernicus-based service for the improvement of habitat suitability of farmland birds via satellite-enabled monitoring, evaluation and optimisation of CAP greening measures&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This research is supported by the Horizon Europe research and innovation programme (2023-2026; HORIZON-EUSPA-2021-SPACE, Grant agreement no. 101082634)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;BirdWatch will support the restoration of spatial heterogeneity on farmland, a necessary component in the lasting recovery of our ecosystems. Farmland is a major source of our food and farmland biodiversity is vital for our subsistence, at least when it is in a healthy condition. BirdWatch will make this monitoring of farmland habitat suitability, a product of both rigorous species distribution modelling and EO data-based geospatial features of the individual farmland parcels, freely accessible to various stakeholders and the interested public. The bird species’ requirements regarding their habitat are the guiding factor of the habitat suitability assessment. With the knowledge on farmland bird habitat requirements and the capability to monitor farmland in terms of habitat suitability opens up the possibility to optimise the structural makeup of farmland and associated greening measures. Combined with the requirements of local stakeholders, including their budgetary and operational constraints, BirdWatch becomes a tool for the optimisation of greening measures both ins terms of farmland bird species requirements and stakeholder constraints. With more effective greening measures at optimised cost, farmers will be supported to increasingly reach ecological and economical sustainability. This will alleviate the burden of costs and economic pressure, thus incentivising landowners to take action towards the improvement of their lands. Additionally, economic instruments such as the CAP or the EAFRD which distribute financial aid to sustainable and organic farming activities will be provided with evidence-based support in monitoring compliance with national and EU biodiversity regulations and the definition of new, increasingly effective policies. With an evidence-based view on biodiversity and the effectiveness of greening measures, BirdWatch encourages the improvement in the communication and mutual understanding between scientists, farmers and administrative bodies.&lt;/p&gt;
-
-&lt;p&gt;The Macroecology Lab leads the work package WP4000.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Project partners&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Coordination: LUP - Luftbild Umwelt Planung GmbH (&lt;a href=&#34;https://www.lup-umwelt.de&#34; target=&#34;_blank&#34;&gt;https://www.lup-umwelt.de&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Eurac Research (&lt;a href=&#34;https://www.eurac.edu/en&#34; target=&#34;_blank&#34;&gt;https://www.eurac.edu/en&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania (&lt;a href=&#34;https://www.nma.lt&#34; target=&#34;_blank&#34;&gt;https://www.nma.lt&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;VITO Head Office (&lt;a href=&#34;https://vito.be/en&#34; target=&#34;_blank&#34;&gt;https://vito.be/en&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Sinergise laboratory for geographical information systems, Ltd. (&lt;a href=&#34;https://www.sinergise.com&#34; target=&#34;_blank&#34;&gt;https://www.sinergise.com&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Agro Digital Solutions (&lt;a href=&#34;https://www.agrodigitalsolutions.eu&#34; target=&#34;_blank&#34;&gt;https://www.agrodigitalsolutions.eu&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>Publications</title>
       <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/extras/publication_list/</guid>
       <description>
@@ -61,17 +30,18 @@
 &lt;h5 id=&#34;preprint&#34;&gt;preprint&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;60 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;59 &amp;ndash; Karger DN, Saladin B, Wüest-Karpati RO, Graham CH, &lt;strong&gt;Zurell D&lt;/strong&gt;, Mo L, Zimmermann NE (2021) Interannual climate variability data improves niche estimates in species distribution models. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2021.08.30.458152&#34; target=&#34;_blank&#34;&gt;10.1101/2021.08.30.458152&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;58 &amp;ndash; Malchow AK, Fandos G, Kormann U, Grüebler M, Kéry M, Hartig F, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Fitting individual-based models of species range dynamics to long-term monitoring data. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.26.509574&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.26.509574&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;57 &amp;ndash; Malchow AK, Hartig F, Reeg J, Kéry M, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Demography-environment relationships improve mechanistic understanding of range dynamics under climate change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.23.509134&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.23.509134&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;56 &amp;ndash; Pang SEH Pang, Slik FJW, &lt;strong&gt;Zurell D&lt;/strong&gt;, Webb EL (2022) The clustering of spatially associated species unravels patterns in Bornean tree species distributions. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.13.507725&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.13.507725&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;61 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;60 &amp;ndash; Karger DN, Saladin B, Wüest-Karpati RO, Graham CH, &lt;strong&gt;Zurell D&lt;/strong&gt;, Mo L, Zimmermann NE (2021) Interannual climate variability data improves niche estimates in species distribution models. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2021.08.30.458152&#34; target=&#34;_blank&#34;&gt;10.1101/2021.08.30.458152&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;59 &amp;ndash; Malchow AK, Fandos G, Kormann U, Grüebler M, Kéry M, Hartig F, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Fitting individual-based models of species range dynamics to long-term monitoring data. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.26.509574&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.26.509574&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;58 &amp;ndash; Malchow AK, Hartig F, Reeg J, Kéry M, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Demography-environment relationships improve mechanistic understanding of range dynamics under climate change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.23.509134&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.23.509134&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;57 &amp;ndash; Pang SEH Pang, Slik FJW, &lt;strong&gt;Zurell D&lt;/strong&gt;, Webb EL (2022) The clustering of spatially associated species unravels patterns in Bornean tree species distributions. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.13.507725&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.13.507725&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;press&#34;&gt;in press&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;55 &amp;ndash; Cabral JS, Mendoza-Ponce A, da Silva AP, Oberpriller J, Mimet A, Kieslinger J, Berger T, Blechschmidt J, Brönner M, Classen A, Fallert S, Hartig F, Hof C, Hoffmann M, Knoke T, Krause A, Lewerentz A, Pohle P, Raeder U, Rammig A, Redlich S, Rubanschi S, Stetter C, Weisser W, Vedder D, Verburg PH, &lt;strong&gt;Zurell D&lt;/strong&gt; (accepted) The road to integrate climate change projections with regional land-use-biodiversity models. People and Nature. &lt;a href=&#34;https://doi.org/10.22541/au.164608831.19029067/v1&#34; target=&#34;_blank&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;56 &amp;ndash; Cabral JS, Mendoza-Ponce A, da Silva AP, Oberpriller J, Mimet A, Kieslinger J, Berger T, Blechschmidt J, Brönner M, Classen A, Fallert S, Hartig F, Hof C, Hoffmann M, Knoke T, Krause A, Lewerentz A, Pohle P, Raeder U, Rammig A, Redlich S, Rubanschi S, Stetter C, Weisser W, Vedder D, Verburg PH, &lt;strong&gt;Zurell D&lt;/strong&gt; (accepted) The road to integrate climate change projections with regional land-use-biodiversity models. People and Nature. &lt;a href=&#34;https://doi.org/10.22541/au.164608831.19029067/v1&#34; target=&#34;_blank&#34;&gt;Preprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;55 &amp;ndash; Tekwa E, Gonzalez A, &lt;strong&gt;Zurell D&lt;/strong&gt;, O’Connor M (accepted) Detecting and attributing the causes of biodiversity change: needs, gaps, and solutions. Philosophical Transactions B.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;pub-2023&#34;&gt;2023&lt;/h5&gt;
@@ -211,6 +181,37 @@
 
 &lt;ul&gt;
 &lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2020) Good practice guidelines for testing species-isolation relationships in patch-matrix systems. Peer Community in Ecology: 100055. &lt;a href=&#34;https://doi.org/10.24072/pci.ecology.100055&#34; target=&#34;_blank&#34;&gt;10.24072/pci.ecology.100055&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BirdWatch</title>
+      <link>https://damariszurell.github.io/project/birdwatch/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/birdwatch/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://birdwatch-eu.lup-umwelt.de/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;BirdWatch - a Copernicus-based service for the improvement of habitat suitability of farmland birds via satellite-enabled monitoring, evaluation and optimisation of CAP greening measures&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the Horizon Europe research and innovation programme (2023-2026; HORIZON-EUSPA-2021-SPACE, Grant agreement no. 101082634)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BirdWatch will support the restoration of spatial heterogeneity on farmland, a necessary component in the lasting recovery of our ecosystems. Farmland is a major source of our food and farmland biodiversity is vital for our subsistence, at least when it is in a healthy condition. BirdWatch will make this monitoring of farmland habitat suitability, a product of both rigorous species distribution modelling and EO data-based geospatial features of the individual farmland parcels, freely accessible to various stakeholders and the interested public. The bird species’ requirements regarding their habitat are the guiding factor of the habitat suitability assessment. With the knowledge on farmland bird habitat requirements and the capability to monitor farmland in terms of habitat suitability opens up the possibility to optimise the structural makeup of farmland and associated greening measures. Combined with the requirements of local stakeholders, including their budgetary and operational constraints, BirdWatch becomes a tool for the optimisation of greening measures both ins terms of farmland bird species requirements and stakeholder constraints. With more effective greening measures at optimised cost, farmers will be supported to increasingly reach ecological and economical sustainability. This will alleviate the burden of costs and economic pressure, thus incentivising landowners to take action towards the improvement of their lands. Additionally, economic instruments such as the CAP or the EAFRD which distribute financial aid to sustainable and organic farming activities will be provided with evidence-based support in monitoring compliance with national and EU biodiversity regulations and the definition of new, increasingly effective policies. With an evidence-based view on biodiversity and the effectiveness of greening measures, BirdWatch encourages the improvement in the communication and mutual understanding between scientists, farmers and administrative bodies.&lt;/p&gt;
+
+&lt;p&gt;The Macroecology Lab leads the work package WP4000.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project partners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coordination: LUP - Luftbild Umwelt Planung GmbH (&lt;a href=&#34;https://www.lup-umwelt.de&#34; target=&#34;_blank&#34;&gt;https://www.lup-umwelt.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Eurac Research (&lt;a href=&#34;https://www.eurac.edu/en&#34; target=&#34;_blank&#34;&gt;https://www.eurac.edu/en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania (&lt;a href=&#34;https://www.nma.lt&#34; target=&#34;_blank&#34;&gt;https://www.nma.lt&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;VITO Head Office (&lt;a href=&#34;https://vito.be/en&#34; target=&#34;_blank&#34;&gt;https://vito.be/en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sinergise laboratory for geographical information systems, Ltd. (&lt;a href=&#34;https://www.sinergise.com&#34; target=&#34;_blank&#34;&gt;https://www.sinergise.com&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Agro Digital Solutions (&lt;a href=&#34;https://www.agrodigitalsolutions.eu&#34; target=&#34;_blank&#34;&gt;https://www.agrodigitalsolutions.eu&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

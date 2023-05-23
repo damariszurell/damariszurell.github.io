@@ -7,22 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Publications</title>
-      <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
-      <description>GoogleScholar &amp;ndash; ResearcherID E-2439-2012 &amp;ndash; ResearchGate
-Journal articles - Book chapters - Miscellaneous
-Peer-reviewed journal articles preprint - in press - 2023 - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - in revision
-preprint  62 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, Zurell D, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain.</description>
-    </item>
     
     <item>
       <title></title>
@@ -87,6 +75,21 @@ We are open to hosting postdoc, PhD, Master or Bachelor projects in my team, yet
       <description> You can download some of my codes from my github site.
 Repository IBM_OptimalForaging C++ codes for individual-based foraging model described in Zurell et al. (2015) Oikos.
 Repository Rcodes_MapNovelEnvironments_SDMs R codes for mapping novel environments (SDM inflated response curves and environmental overlap masks) described in Zurell et al. (2012) DDI. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://damariszurell.github.io/extras/publication_list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
+      <description>Jostein Øien I+++
+date = &amp;ldquo;2023-05-23&amp;rdquo; draft=false title = &amp;ldquo;Publications&amp;rdquo;
++++
+GoogleScholar &amp;ndash; ResearcherID E-2439-2012 &amp;ndash; ResearchGate
+Journal articles - Book chapters - Miscellaneous
+Peer-reviewed journal articles preprint - in press - 2023 - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012 - in revision
+preprint  62 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, Zurell D, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain.</description>
     </item>
     
   </channel>

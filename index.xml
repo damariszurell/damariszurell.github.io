@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Publications</title>
       <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/extras/publication_list/</guid>
       <description>
@@ -25,7 +25,7 @@
 
 &lt;h4 id=&#34;papers&#34;&gt;Peer-reviewed journal articles&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;#preprint&#34;&gt;preprint&lt;/a&gt; - &lt;a href=&#34;#press&#34;&gt;in press&lt;/a&gt; - &lt;a href=&#34;#pub-2023&#34;&gt;2023&lt;/a&gt; - &lt;a href=&#34;#pub-2022&#34;&gt;2022&lt;/a&gt; - &lt;a href=&#34;#pub-2021&#34;&gt;2021&lt;/a&gt; - &lt;a href=&#34;#pub-2020&#34;&gt;2020&lt;/a&gt; - &lt;a href=&#34;#pub-2019&#34;&gt;2019&lt;/a&gt; - &lt;a href=&#34;#pub-2018&#34;&gt;2018&lt;/a&gt; - &lt;a href=&#34;#pub-2017&#34;&gt;2017&lt;/a&gt; - &lt;a href=&#34;#pub-2016&#34;&gt;2016&lt;/a&gt; - &lt;a href=&#34;#pub-2015&#34;&gt;2015&lt;/a&gt; - &lt;a href=&#34;#pub-2014&#34;&gt;2014&lt;/a&gt; - &lt;a href=&#34;#pub-2013&#34;&gt;2013&lt;/a&gt; - &lt;a href=&#34;#pub-2012&#34;&gt;2012&lt;/a&gt; - &lt;a href=&#34;#pub-pre2012&#34;&gt;pre 2012&lt;/a&gt; - &lt;a href=&#34;#pub-revision&#34;&gt;in revision&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;#preprint&#34;&gt;preprint&lt;/a&gt; - &lt;a href=&#34;#press&#34;&gt;in press&lt;/a&gt; - &lt;a href=&#34;#pub-2023&#34;&gt;2023&lt;/a&gt; - &lt;a href=&#34;#pub-2022&#34;&gt;2022&lt;/a&gt; - &lt;a href=&#34;#pub-2021&#34;&gt;2021&lt;/a&gt; - &lt;a href=&#34;#pub-2020&#34;&gt;2020&lt;/a&gt; - &lt;a href=&#34;#pub-2019&#34;&gt;2019&lt;/a&gt; - &lt;a href=&#34;#pub-2018&#34;&gt;2018&lt;/a&gt; - &lt;a href=&#34;#pub-2017&#34;&gt;2017&lt;/a&gt; - &lt;a href=&#34;#pub-2016&#34;&gt;2016&lt;/a&gt; - &lt;a href=&#34;#pub-2015&#34;&gt;2015&lt;/a&gt; - &lt;a href=&#34;#pub-2014&#34;&gt;2014&lt;/a&gt; - &lt;a href=&#34;#pub-2013&#34;&gt;2013&lt;/a&gt; - &lt;a href=&#34;#pub-2012&#34;&gt;2012&lt;/a&gt; - &lt;a href=&#34;#pub-pre2012&#34;&gt;pre 2012&lt;/a&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;preprint&#34;&gt;preprint&lt;/h5&gt;
 
@@ -162,13 +162,9 @@
 &lt;h5 id=&#34;pub-pre2012&#34;&gt;pre 2012&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Berger U, Cabral JS, Jeltsch F, Meynard CN, Münkemüller T, Nehrbass N, Pagel J, Reineking B, Schröder B, Grimm V (2010) The virtual ecologist approach: simulating data and observers. Oikos 119: 622-635. &lt;a href=&#34;http://www3.interscience.wiley.com/journal/123304444/abstract&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Oikos_2010.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Jeltsch F, Dormann CF, Schröder B (2009) Static species distribution models in dynamically changing systems: how good can predictions really be? Ecography 32: 733-744. &lt;a href=&#34;http://www3.interscience.wiley.com/journal/122562280/abstract&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Ecography_2009.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Berger U, Cabral JS, Jeltsch F, Meynard CN, Münkemüller T, Nehrbass N, Pagel J, Reineking B, Schröder B, Grimm V (2010) The virtual ecologist approach: simulating data and observers. Oikos 119: 622-635. &lt;a href=&#34;https://doi.org/10.1111/j.1600-0706.2009.18284.x&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Oikos_2010.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Jeltsch F, Dormann CF, Schröder B (2009) Static species distribution models in dynamically changing systems: how good can predictions really be? Ecography 32: 733-744. &lt;a href=&#34;https://doi.org/10.1111/j.1600-0587.2009.05810.x&#34; target=&#34;_blank&#34;&gt;Link&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_etal_Ecography_2009.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h5 id=&#34;pub-revision&#34;&gt;in revision&lt;/h5&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -184,6 +180,35 @@
 
 &lt;ul&gt;
 &lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2020) Good practice guidelines for testing species-isolation relationships in patch-matrix systems. Peer Community in Ecology: 100055. &lt;a href=&#34;https://doi.org/10.24072/pci.ecology.100055&#34; target=&#34;_blank&#34;&gt;10.24072/pci.ecology.100055&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BIOPIC</title>
+      <link>https://damariszurell.github.io/project/biopic/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/biopic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by an Emmy Noether grant by the German Science Foundation DFG (2018-2023; Grant no. ZU 361.1-1 to Damaris Zurell)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments. In BIOPIC, we will develop an integrated modelling framework able to disentangle the complex roles of demography, dispersal and biotic interactions in shaping species niches, and assess their effects on population and community response to global change. The framework and its single components will be validated using a mix of simulated and empirical data, and it will be operationalized for avian communities as test case. In particular, the project will focus on five key research objectives aimed at (1) improving our understanding how life history and environment shape dispersal, (2) improving our understanding how life history and demography shape species’ niches, (3) improving our understanding how biotic interactions shape species’ niches, (4) developing and operationalizing multi-species dynamic distribution models, and (5) developing new biodiversity scenarios for European birds. Overall, the proposed project will improve the scientific basis for model-based biodiversity assessments and increase reliability of biodiversity predictions for broad spatial scales by providing both theoretical and conceptual advancements and by defining practical requirements and guidelines for the development and application of biodiversity models.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Catherine H Graham and Niklaus E Zimmermann, WSL, Switzerland&lt;/li&gt;
+&lt;li&gt;Thomas Sattler and Marc Kéry, Swiss Ornithological Institute, Sempach, Switzerland&lt;/li&gt;
+&lt;li&gt;Wilfried Thuiller and Tamara Münkemüller, LECA, France&lt;/li&gt;
+&lt;li&gt;Florian Hartig, Univ. Regensburg, Germany&lt;/li&gt;
+&lt;li&gt;Wolfgang Fiedler, MPIO Radolfzell, Germany&lt;/li&gt;
+&lt;li&gt;Tobias Kümmerle, HU Berlin, Germany&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -749,35 +774,6 @@ International Biogeography Society (IBS)&lt;/p&gt;
       
       <guid>https://damariszurell.github.io/extras/news/</guid>
       <description>&lt;hr /&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BIOPIC</title>
-      <link>https://damariszurell.github.io/project/biopic/</link>
-      <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/biopic/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This research is supported by an Emmy Noether grant by the German Science Foundation DFG (2018-2023; Grant no. ZU 361.1-1 to Damaris Zurell)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Understanding the interplay between different drivers of biodiversity change is vital for making robust predictions to novel environments. In BIOPIC, we will develop an integrated modelling framework able to disentangle the complex roles of demography, dispersal and biotic interactions in shaping species niches, and assess their effects on population and community response to global change. The framework and its single components will be validated using a mix of simulated and empirical data, and it will be operationalized for avian communities as test case. In particular, the project will focus on five key research objectives aimed at (1) improving our understanding how life history and environment shape dispersal, (2) improving our understanding how life history and demography shape species’ niches, (3) improving our understanding how biotic interactions shape species’ niches, (4) developing and operationalizing multi-species dynamic distribution models, and (5) developing new biodiversity scenarios for European birds. Overall, the proposed project will improve the scientific basis for model-based biodiversity assessments and increase reliability of biodiversity predictions for broad spatial scales by providing both theoretical and conceptual advancements and by defining practical requirements and guidelines for the development and application of biodiversity models.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Catherine H Graham and Niklaus E Zimmermann, WSL, Switzerland&lt;/li&gt;
-&lt;li&gt;Thomas Sattler and Marc Kéry, Swiss Ornithological Institute, Sempach, Switzerland&lt;/li&gt;
-&lt;li&gt;Wilfried Thuiller and Tamara Münkemüller, LECA, France&lt;/li&gt;
-&lt;li&gt;Florian Hartig, Univ. Regensburg, Germany&lt;/li&gt;
-&lt;li&gt;Wolfgang Fiedler, MPIO Radolfzell, Germany&lt;/li&gt;
-&lt;li&gt;Tobias Kümmerle, HU Berlin, Germany&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

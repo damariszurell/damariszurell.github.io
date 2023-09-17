@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Sep 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Publications</title>
       <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/extras/publication_list/</guid>
       <description>
@@ -30,15 +30,16 @@
 &lt;h5 id=&#34;preprint&#34;&gt;preprint&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;64 &amp;ndash; Brun P, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Descombes P, de Witte L, de Lutio R, Wegner JD, Zimmermann NE (2023) Rank-based deep learning from citizen-science data to model plant communities. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2023.05.30.542843&#34; target=&#34;_blank&#34;&gt;10.1101/2023.05.30.542843&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;63 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;62 &amp;ndash; Jones C, &lt;strong&gt;Zurell D&lt;/strong&gt;, Wiesner K (2023) Evaluating The Impact Of Species Specialisation On Ecological Network Robustness Using Analytic Methods. arXiv: 2306.15428. DOI: &lt;a href=&#34;https://doi.org/10.48550/arXiv.2306.15428&#34; target=&#34;_blank&#34;&gt;10.48550/arXiv.2306.15428&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;61 &amp;ndash; Malchow AK, Fandos G, Kormann U, Grüebler M, Kéry M, Hartig F, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Fitting individual-based models of species range dynamics to long-term monitoring data. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.26.509574&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.26.509574&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;65 &amp;ndash; Brun P, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Descombes P, de Witte L, de Lutio R, Wegner JD, Zimmermann NE (2023) Rank-based deep learning from citizen-science data to model plant communities. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2023.05.30.542843&#34; target=&#34;_blank&#34;&gt;10.1101/2023.05.30.542843&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;64 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;63 &amp;ndash; Jones C, &lt;strong&gt;Zurell D&lt;/strong&gt;, Wiesner K (2023) Evaluating The Impact Of Species Specialisation On Ecological Network Robustness Using Analytic Methods. arXiv: 2306.15428. DOI: &lt;a href=&#34;https://doi.org/10.48550/arXiv.2306.15428&#34; target=&#34;_blank&#34;&gt;10.48550/arXiv.2306.15428&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;62 &amp;ndash; Malchow AK, Fandos G, Kormann U, Grüebler M, Kéry M, Hartig F, &lt;strong&gt;Zurell D&lt;/strong&gt; (2022) Fitting individual-based models of species range dynamics to long-term monitoring data. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.09.26.509574&#34; target=&#34;_blank&#34;&gt;10.1101/2022.09.26.509574&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h5 id=&#34;press&#34;&gt;in press&lt;/h5&gt;
 
 &lt;ul&gt;
+&lt;li&gt;61 &amp;ndash; Essl F, García-Rodríguez A, Lenzner B, Alexander JM, Capinha C, Gaüzère P, Guisan A, Kühn I, Lenoir Jonathan, Richardson DM, Rumpf SB, Svenning JC, Thuiller W, &lt;strong&gt;Zurell D&lt;/strong&gt;, Dullinger S (accepted) Potential sources of time lags in calibrating species distribution models. Journal of Biogeography. DOI: 10.1111/jbi.14726.&lt;/li&gt;
 &lt;li&gt;60 &amp;ndash; Cabral JS, Mendoza-Ponce A, da Silva AP, Oberpriller J, Mimet A, Kieslinger J, Berger T, Blechschmidt J, Brönner M, Classen A, Fallert S, Hartig F, Hof C, Hoffmann M, Knoke T, Krause A, Lewerentz A, Pohle P, Raeder U, Rammig A, Redlich S, Rubanschi S, Stetter C, Weisser W, Vedder D, Verburg PH, &lt;strong&gt;Zurell D&lt;/strong&gt; (accepted) The road to integrate climate change projections with regional land-use-biodiversity models. People and Nature. DOI: &lt;a href=&#34;https://doi.org/10.1002/pan3.10472&#34; target=&#34;_blank&#34;&gt;10.1002/pan3.10472&lt;/a&gt; &amp;ndash; &lt;a href=&#34;https://damariszurell.github.io/files/Cabral_etal_PaN_2023.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -171,7 +172,7 @@
 &lt;h4 id=&#34;books&#34;&gt;Book chapters&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Engler JO (2019) Ecological niche modelling. In Dunn PO, Møller AP (eds) Effects of climate change on birds. Oxford University Press.&lt;/li&gt;
+&lt;li&gt;B1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt;, Engler JO (2019) Ecological niche modelling. In Dunn PO, Møller AP (eds) Effects of climate change on birds. Oxford University Press.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -179,7 +180,9 @@
 &lt;h4 id=&#34;misc&#34;&gt;Miscellaneous&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2020) Good practice guidelines for testing species-isolation relationships in patch-matrix systems. Peer Community in Ecology: 100055. &lt;a href=&#34;https://doi.org/10.24072/pci.ecology.100055&#34; target=&#34;_blank&#34;&gt;10.24072/pci.ecology.100055&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;M3 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2020) Good practice guidelines for testing species-isolation relationships in patch-matrix systems. Peer Community in Ecology: 100055. &lt;a href=&#34;https://doi.org/10.24072/pci.ecology.100055&#34; target=&#34;_blank&#34;&gt;10.24072/pci.ecology.100055&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;M2 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2011) Integrating dynamic and statistical modelling approaches in order to improve predictions for scenarios of environmental change. PhD thesis. University of Potsdam. &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_diss_2011.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;M1 &amp;ndash; &lt;strong&gt;Zurell D&lt;/strong&gt; (2007) Can static models depict dynamic populations? A virtual ecologist investigates. Diplom (Master) thesis. University of Potsdam. &lt;a href=&#34;https://damariszurell.github.io/files/Zurell_dipl_2007.pdf&#34;&gt;pdf&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

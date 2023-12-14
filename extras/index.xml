@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Wed, 08 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>https://damariszurell.github.io/extras/publication_list/</link>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
+      <description>GoogleScholar &amp;ndash; ResearcherID E-2439-2012 &amp;ndash; ResearchGate
+Journal articles - Book chapters - Miscellaneous
+Peer-reviewed journal articles preprint - in press - 2024 - 2023 - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012
+preprint  67 &amp;ndash; Brun P, Karger DN, Zurell D, Descombes P, de Witte L, de Lutio R, Wegner JD, Zimmermann NE (2023) Rank-based deep learning from citizen-science data to model plant communities.</description>
+    </item>
     
     <item>
       <title></title>
@@ -19,18 +31,6 @@
       
       <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
       <description>Lab alumni Postdocs  2022 &amp;ndash; James Hunter-Ayad (PhD) - conservation biogeography, macroecology, population modelling 2018-2022 &amp;ndash; Guillermo Fandos Guzman (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how life history and environment shape dispersal in birds&amp;rdquo; 2020-2021 &amp;ndash; Philipp Brun (PhD) - WSL, COMECO project - Improving automatic image classification of Swiss plant species, main advisor: Prof. Dr. Niklaus E. Zimmermann (WSL, Switzerland) 2019-2021 &amp;ndash; Christian König (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how biotic interactions shape species&amp;rsquo; niches&amp;rdquo; 2018-2020 &amp;ndash; Patrice Descombes (PhD) - WSL, SPEEDMIND project - Improve feedback between biodiversity analyses and citizen scientists, main advisor: Prof.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/publication_list/</guid>
-      <description>GoogleScholar &amp;ndash; ResearcherID E-2439-2012 &amp;ndash; ResearchGate
-Journal articles - Book chapters - Miscellaneous
-Peer-reviewed journal articles preprint - in press - 2023 - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012
-preprint  67 &amp;ndash; Brun P, Karger DN, Zurell D, Descombes P, de Witte L, de Lutio R, Wegner JD, Zimmermann NE (2023) Rank-based deep learning from citizen-science data to model plant communities.</description>
     </item>
     
     <item>

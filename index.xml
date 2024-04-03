@@ -6,13 +6,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Publications</title>
       <link>https://damariszurell.github.io/extras/publication_list/</link>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/extras/publication_list/</guid>
       <description>
@@ -30,8 +30,9 @@
 &lt;h5 id=&#34;preprint&#34;&gt;preprint&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;68 &amp;ndash; Brun P, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Descombes P, de Witte L, de Lutio R, Wegner JD, Zimmermann NE (2023) Rank-based deep learning from citizen-science data to model plant communities. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2023.05.30.542843&#34; target=&#34;_blank&#34;&gt;10.1101/2023.05.30.542843&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;67 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;69 &amp;ndash; Brun P, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Descombes P, de Witte L, de Lutio R, Wegner JD, Zimmermann NE (2023) Rank-based deep learning from citizen-science data to model plant communities. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2023.05.30.542843&#34; target=&#34;_blank&#34;&gt;10.1101/2023.05.30.542843&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;68 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;67 &amp;ndash; Fandos G, Robinson R, &lt;strong&gt;Zurell D&lt;/strong&gt; (2024) Dispersal syndromes allow understanding but not predicting dispersal ability across the tree of life. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2024.04.01.587575&#34; target=&#34;_blank&#34;&gt;10.1101/2024.04.01.587575&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;66 &amp;ndash; Oeser J, &lt;strong&gt;Zurell D&lt;/strong&gt;, Mayer F, Coraman E, Toshkova N, Deleva S, Natradze I, Benda P, Ghazaryan A, Irmak S, Hasanov NA, Guliyeva GG, Gritsina M, Kuemmerle T (2024) The best of two worlds: using stacked generalization for integrating expert range maps in species distribution models. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2024.03.12.584552&#34; target=&#34;_blank&#34;&gt;10.1101/2024.03.12.584552&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 

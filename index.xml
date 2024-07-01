@@ -6,8 +6,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ZOE</title>
+      <link>https://damariszurell.github.io/project/zoe/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/zoe/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.zoe-project.eu/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;ZOE - Zoonoses Emergence across Degraded and Restored Forest Ecosystems&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the Horizon Europe research and innovation programme (2024-2027, )HORIZON-CL6-2023-BIODIV-01, Grant agreement no. 101135094)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ecosystem degradation and biodiversity loss may facilitate the emergence of zoonotic diseases. The 4-year ZOE project will analyze the links between landcover and land use changes in tropical biodiversity hot-spots facing loss of primary forest and biodiversity and in temperate regions that have undergone ecosystem degradation and deforestation over historical timescales. In areas experiencing different levels of ecosystem degradation, biodiversity assessments will be based on remote sensing-based GIS analysis of landscape structures, geobotanic plant mapping, and targeted trapping of rodents, ticks, and mosquitoes, as prototypic reservoirs and vectors of zoonotic diseases (macro-organism scale). Host- and soil-associated microbiome and virome high-throughput sequencing will be combined with assessment of human exposure to prototypic zoonotic pathogens, using high-throughput serological analyses (microbiological scale). ZOE will link with local communities and stakeholders to address perceived land use and land cover changes, disease occurrence, coping strategies, and risk behaviour. Results will be synthesized in modelling and risk mapping frameworks linking biodiversity loss and zoonotic disease risks and tested in forecasting scenarios to feed into cost-efficient monitoring schemes and early warning systems. An online knowledge platform will be created to link all relevant stakeholders of the biodiversity-health nexus, including other EU-funded consortia, national and supranational organizations stakeholders, local communities, and the public. A joint stakeholder conference will be organized, and community engagement workshops will specifically co-create and advance knowledge in local communities involved in ZOE. The ZOE project is proposed by an interdisciplinary consortium with expertise in geography, geobotanics, ecology, virology, immunology, epidemiology, sociology, psychology, anthropology and science dissemination from 7 EU and 4 American countries.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project partners&lt;/strong&gt;
+The ZOE project is run by an interdisciplinary consortium with expertise in geography, geobotanics, ecology, virology, immunology, epidemiology, sociology, psychology, anthropology and science dissemination from seven EU and four American countries. The Macroecology Lab leads the work package WP5.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -779,16 +800,6 @@ International Biogeography Society (IBS)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Gurutzeta Guillera-Arroita, Jane Elith, Natalie Briscoe, Univ. Melbourne, Australia&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://damariszurell.github.io/extras/news/</link>
-      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/news/</guid>
-      <description>&lt;hr /&gt;
 </description>
     </item>
     

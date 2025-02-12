@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://damariszurell.github.io/extras/alumni_list/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
+      <description>Lab alumni Postdocs &amp;ndash; PhD &amp;ndash; Visiting fellows &amp;ndash; Technicians / Research assistants &amp;ndash; Student assistants &amp;ndash; Master thesis &amp;ndash; Bachelor thesis &amp;ndash; Interns
+Postdocs  2022 &amp;ndash; James Hunter-Ayad (PhD) - conservation biogeography, macroecology, population modelling 2018-2022 &amp;ndash; Guillermo Fandos Guzman (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how life history and environment shape dispersal in birds&amp;rdquo; 2020-2021 &amp;ndash; Philipp Brun (PhD) - WSL, COMECO project - Improving automatic image classification of Swiss plant species, main advisor: Prof.</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -22,16 +32,6 @@
 Journal articles - Book chapters - Miscellaneous
 Peer-reviewed journal articles preprint - in press - 2024 - 2023 - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012
 preprint  77 &amp;ndash; Brun P, de Witte L, Popp MR, Zurell D, Karger DN, Descombes P, de Lutio R, Wegner JD, Bornand C, Eggenberg S, Olevski T, Zimmermann NE (2024) Florid – a Nationwide Identification Service for Plants from Photos and Habitat Information.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://damariszurell.github.io/extras/alumni_list/</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/alumni_list/</guid>
-      <description>Lab alumni Postdocs &amp;ndash; PhD &amp;ndash; Visiting fellows &amp;ndash; Technicians / Research assistants &amp;ndash; Student assistants &amp;ndash; Master thesis &amp;ndash; Bachelor thesis &amp;ndash; Interns
-Postdocs  2022 &amp;ndash; James Hunter-Ayad (PhD) - conservation biogeography, macroecology, population modelling 2018-2022 &amp;ndash; Guillermo Fandos Guzman (PhD) - BIOPIC project, work package &amp;ldquo;Understanding how life history and environment shape dispersal in birds&amp;rdquo; 2020-2021 &amp;ndash; Philipp Brun (PhD) - WSL, COMECO project - Improving automatic image classification of Swiss plant species, main advisor: Prof.</description>
     </item>
     
     <item>

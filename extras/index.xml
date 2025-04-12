@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; 2017-2023 Damaris Zurell</copyright>
-    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damariszurell.github.io/extras/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Damaris Zurell - Curriculum vitae</title>
+      <link>https://damariszurell.github.io/extras/damaris_cv/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/extras/damaris_cv/</guid>
+      <description>Contact - Education - Career - Projects - Awards - Professional activities - Memberships
+I am a professor of Ecology and Macroecology at the University of Potsdam, with a deep interest in how biodiversity responds to environmental change. My work bridges theoretical ecology, conservation science, and predictive biodiversity modelling, often connecting basic research with real-world conservation challenges. I lead an interdisciplinary research group, coordinate international initiatives, and actively contribute to global scientific networks on biodiversity and climate change.</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -22,22 +32,6 @@
 Journal articles - Book chapters - Miscellaneous
 Peer-reviewed journal articles preprint - in press - 2025 - 2024 - 2023 - 2022 - 2021 - 2020 - 2019 - 2018 - 2017 - 2016 - 2015 - 2014 - 2013 - 2012 - pre 2012
 preprint  79 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, Zurell D, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain.</description>
-    </item>
-    
-    <item>
-      <title>Damaris Zurell</title>
-      <link>https://damariszurell.github.io/extras/damaris_cv/</link>
-      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/damaris_cv/</guid>
-      <description>Contact - Education - Career - Projects - Awards - Professional activities - Memberships
-Contact details Prof. Dr. Damaris Zurell
-Ecology/Macroecology Group
-Institute for Biochemistry and Biology | University of Potsdam
-Am Neuen Palais 10 | D-14469 Potsdam | Germany
-Office: Maulbeerallee 3 | D-14469 Potsdam | Room 0.12
-Phone: +49 331 977 191002
-Education  2011 &amp;ndash; PhD in Geoecology, University of Potsdam, Inst. of Earth and Environmental Sciences</description>
     </item>
     
     <item>

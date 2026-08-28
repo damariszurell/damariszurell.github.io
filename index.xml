@@ -6,8 +6,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Damaris Zurell</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ExChange</title>
+      <link>https://damariszurell.github.io/project/exchange/</link>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/exchange/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Assessing species extinction risk from climate change in the past, present, and future (ExChange)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the German Science Foundation DFG (2026-2029; Project number:  569821681)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The key aim of ExChange is to enhance our understanding of species’ extinction risk in large-bodied terrestrial mammals due to climate change. Building on extensive empirical and modelling analyses, we will: (i) test correlations between extinction risk and species traits, assessing consistency across past, present and future extinctions; (ii) evaluate variations in extinction risk estimates across models; and (iii) refine Red List guidelines with best practices for future risk classification. Our interdisciplinary approach combining paleoecology, conservation biology and theoretical ecology will strengthen the scientific basis for designing adequate and pragmatic solutions to the extinction crisis in the Anthropocene.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Susanne Fritz (iDiv, Germany)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title></title>
@@ -148,9 +172,10 @@
 &lt;h5 id=&#34;preprint&#34;&gt;preprint&lt;/h5&gt;
 
 &lt;ul&gt;
-&lt;li&gt;94 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;93 &amp;ndash; Holle V, Klitting R, Kabisch N, &lt;strong&gt;Zurell D&lt;/strong&gt; (2026) Past and future phenology changes of zoonotic vector-borne diseases under climate and land-use change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.64898/2026.06.07.730142&#34; target=&#34;_blank&#34;&gt;10.64898/2026.06.07.730142&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;92 &amp;ndash; Schifferle K, Briscoe NJ, Fandos G, Heinicke S, Reyer CPO, Sauer IJ, Urban MC, &lt;strong&gt;Zurell D&lt;/strong&gt; (2026) North American bird occupancy dynamics attributed to climate and land use change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.64898/2026.08.24.746675&#34; target=&#34;_blank&#34;&gt;10.64898/2026.08.24.746675&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;95 &amp;ndash; Descombes P, Chauvier Y, Brun P, Righetti D, Wüest RO, Karger DN, &lt;strong&gt;Zurell D&lt;/strong&gt;, Zimmermann NE (2022) Strategies for sampling pseudo-absences for species distribution models in complex mountainous terrain. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.1101/2022.03.24.485693&#34; target=&#34;_blank&#34;&gt;10.1101/2022.03.24.485693&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;94 &amp;ndash; Holle V, Klitting R, Kabisch N, &lt;strong&gt;Zurell D&lt;/strong&gt; (2026) Past and future phenology changes of zoonotic vector-borne diseases under climate and land-use change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.64898/2026.06.07.730142&#34; target=&#34;_blank&#34;&gt;10.64898/2026.06.07.730142&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;93 &amp;ndash; Schifferle K, Briscoe NJ, Fandos G, Heinicke S, Reyer CPO, Sauer IJ, Urban MC, &lt;strong&gt;Zurell D&lt;/strong&gt; (2026) North American bird occupancy dynamics attributed to climate and land use change. bioRxiv. DOI: &lt;a href=&#34;https://doi.org/10.64898/2026.08.24.746675&#34; target=&#34;_blank&#34;&gt;10.64898/2026.08.24.746675&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;92 &amp;ndash; Velazco SJE, Briscoe NJ, Buckley L, Cabral JS, Peralta FC, Cooke R, de Oliveira Junior AC, Ferrier S, Gascoigne SJL, da Cunha Godoy L, Guillera-Arroita G, Isaac NJB, Karger DN, Keuth R, Lundquist CJ, Merow C, Purvis A, Schifferle K, Semple AE, Serra-Diaz JM, Travis JMJ, Wintle BA, &lt;strong&gt;Zurell D&lt;/strong&gt;*, Urban MC*, Bocedi G* (2026) A protocol for the biodiversity model intercomparison project: BMIP 1.0. EGUsphere. &lt;em&gt;*Joint senior authorship&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;91 &amp;ndash; Wiedenroth L, Cord A, Scholz N, &lt;strong&gt;Zurell D&lt;/strong&gt; (2026) Quantifying the effect of agri-environmental policy instruments on habitat availability of farmland birds. Available at SSRN. DOI: &lt;a href=&#34;http://dx.doi.org/10.2139/ssrn.7211764&#34; target=&#34;_blank&#34;&gt;10.2139/ssrn.7211764&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;90 &amp;ndash; Wiedenroth L, Scholz N, Ventura B, &lt;strong&gt;Zurell D&lt;/strong&gt; (2026) A meta-model approach for multi-scale species distribution models. ARPHA Preprints. DOI: &lt;a href=&#34;https://doi.org/10.3897/arphapreprints.e205471&#34; target=&#34;_blank&#34;&gt;10.3897/arphapreprints.e205471&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -492,6 +517,88 @@ International Biogeography Society (IBS)&lt;/p&gt;
     </item>
     
     <item>
+      <title>BirdWatch</title>
+      <link>https://damariszurell.github.io/project/birdwatch/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/birdwatch/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://birdwatch-eu.lup-umwelt.de/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;BirdWatch - a Copernicus-based service for the improvement of habitat suitability of farmland birds via satellite-enabled monitoring, evaluation and optimisation of CAP greening measures&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is supported by the Horizon Europe research and innovation programme (2023-2026; HORIZON-EUSPA-2021-SPACE, Grant agreement no. 101082634)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;BirdWatch will support the restoration of spatial heterogeneity on farmland, a necessary component in the lasting recovery of our ecosystems. Farmland is a major source of our food and farmland biodiversity is vital for our subsistence, at least when it is in a healthy condition. BirdWatch will make this monitoring of farmland habitat suitability, a product of both rigorous species distribution modelling and EO data-based geospatial features of the individual farmland parcels, freely accessible to various stakeholders and the interested public. The bird species’ requirements regarding their habitat are the guiding factor of the habitat suitability assessment. With the knowledge on farmland bird habitat requirements and the capability to monitor farmland in terms of habitat suitability opens up the possibility to optimise the structural makeup of farmland and associated greening measures. Combined with the requirements of local stakeholders, including their budgetary and operational constraints, BirdWatch becomes a tool for the optimisation of greening measures both ins terms of farmland bird species requirements and stakeholder constraints. With more effective greening measures at optimised cost, farmers will be supported to increasingly reach ecological and economical sustainability. This will alleviate the burden of costs and economic pressure, thus incentivising landowners to take action towards the improvement of their lands. Additionally, economic instruments such as the CAP or the EAFRD which distribute financial aid to sustainable and organic farming activities will be provided with evidence-based support in monitoring compliance with national and EU biodiversity regulations and the definition of new, increasingly effective policies. With an evidence-based view on biodiversity and the effectiveness of greening measures, BirdWatch encourages the improvement in the communication and mutual understanding between scientists, farmers and administrative bodies.&lt;/p&gt;
+
+&lt;p&gt;The Macroecology Lab leads the work package WP4000.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Project partners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Coordination: LUP - Luftbild Umwelt Planung GmbH (&lt;a href=&#34;https://www.lup-umwelt.de&#34; target=&#34;_blank&#34;&gt;https://www.lup-umwelt.de&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Eurac Research (&lt;a href=&#34;https://www.eurac.edu/en&#34; target=&#34;_blank&#34;&gt;https://www.eurac.edu/en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania (&lt;a href=&#34;https://www.nma.lt&#34; target=&#34;_blank&#34;&gt;https://www.nma.lt&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;VITO Head Office (&lt;a href=&#34;https://vito.be/en&#34; target=&#34;_blank&#34;&gt;https://vito.be/en&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Sinergise laboratory for geographical information systems, Ltd. (&lt;a href=&#34;https://www.sinergise.com&#34; target=&#34;_blank&#34;&gt;https://www.sinergise.com&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Agro Digital Solutions (&lt;a href=&#34;https://www.agrodigitalsolutions.eu&#34; target=&#34;_blank&#34;&gt;https://www.agrodigitalsolutions.eu&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TripleBird</title>
+      <link>https://damariszurell.github.io/project/triplebird/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/triplebird/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.ufz.de/triplebird/index.php?en=52656&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;TripleBird - Bending the curve of biodiversity loss&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This research is led by the Helmholtz Centre for Environmental Research (UFZ) in partnership with the German Federation of Avifaunists (DDA) and in collaboration with the German Centre for Integrative Biodiversity Research (iDiv) and the University of Potsdam. It is supported by states of Saxony and Saxony-Anhalt, and the Federal Ministry for Research, Technology and Space (BMFTR).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The TripleBird project bridges the gap between biodiversity monitoring and effective nature conservation measures. Together with partners from academia and the field, we generate robust insights for assessing and protecting biodiversity.&lt;/p&gt;
+
+&lt;p&gt;TripleBird combines three key components:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;BirdTwin&lt;/em&gt;: a digital twin based on bird monitoring and environmental data, forms the foundation (led by Petra Jacobs, UFZ)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BirdFutures&lt;/em&gt;: develops models and scenarios in collaboration with stakeholders from the business, conservation and financial sectors (led by Tatiane Micheletti, UFZ)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BirdBusiness&lt;/em&gt;: supports applications for businesses and financial institutions (led by Milina Alber and Johannes Förster, UFZ)
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Project partners&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Katrin Böhning-Gaese (UFZ Leipzig)&lt;/li&gt;
+&lt;li&gt;Alke Voskamp, Susanne Fritz (iDiv Leipzig)&lt;/li&gt;
+&lt;li&gt;Tobias Reiner (DDA)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BeyondSpecies</title>
+      <link>https://damariszurell.github.io/project/beyondspecies/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://damariszurell.github.io/project/beyondspecies/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;BeyondSpecies - Predicting biodiversity change by integrating genetic diversity into ecological niche models&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Biodiversity loss as a result of climate change is one of the major challenges of our time. The Museum für Naturkunde Berlin is focusing on this issue in a research network involving German, Turkish, Israeli and Armenian researchers with wide-ranging expertise, from fundamental science to policy advice. The team is investigating the influence of climate change on genetic diversity among bat species in the Anatolian-Caucasus region. The combination of genome research and ecological niche modelling means novel findings are to be expected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Institute:&lt;/strong&gt; Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science (MfN)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cooperating partners:&lt;/strong&gt; Humboldt-Universität zu Berlin; Universität Potsdam; Istanbul Technical University; Yerevan State University; Tel-Aviv University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ZOE</title>
       <link>https://damariszurell.github.io/project/zoe/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
@@ -515,7 +622,7 @@ The ZOE project is run by an interdisciplinary consortium with expertise in geog
     <item>
       <title>BIOPIC</title>
       <link>https://damariszurell.github.io/project/biopic/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://damariszurell.github.io/project/biopic/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Disentangling the effects of demography, dispersal and biotic interactions on population and community response to global change&lt;/strong&gt;&lt;/p&gt;
@@ -603,37 +710,6 @@ The ZOE project is run by an interdisciplinary consortium with expertise in geog
     </item>
     
     <item>
-      <title>BirdWatch</title>
-      <link>https://damariszurell.github.io/project/birdwatch/</link>
-      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/birdwatch/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://birdwatch-eu.lup-umwelt.de/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;BirdWatch - a Copernicus-based service for the improvement of habitat suitability of farmland birds via satellite-enabled monitoring, evaluation and optimisation of CAP greening measures&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This research is supported by the Horizon Europe research and innovation programme (2023-2026; HORIZON-EUSPA-2021-SPACE, Grant agreement no. 101082634)&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;BirdWatch will support the restoration of spatial heterogeneity on farmland, a necessary component in the lasting recovery of our ecosystems. Farmland is a major source of our food and farmland biodiversity is vital for our subsistence, at least when it is in a healthy condition. BirdWatch will make this monitoring of farmland habitat suitability, a product of both rigorous species distribution modelling and EO data-based geospatial features of the individual farmland parcels, freely accessible to various stakeholders and the interested public. The bird species’ requirements regarding their habitat are the guiding factor of the habitat suitability assessment. With the knowledge on farmland bird habitat requirements and the capability to monitor farmland in terms of habitat suitability opens up the possibility to optimise the structural makeup of farmland and associated greening measures. Combined with the requirements of local stakeholders, including their budgetary and operational constraints, BirdWatch becomes a tool for the optimisation of greening measures both ins terms of farmland bird species requirements and stakeholder constraints. With more effective greening measures at optimised cost, farmers will be supported to increasingly reach ecological and economical sustainability. This will alleviate the burden of costs and economic pressure, thus incentivising landowners to take action towards the improvement of their lands. Additionally, economic instruments such as the CAP or the EAFRD which distribute financial aid to sustainable and organic farming activities will be provided with evidence-based support in monitoring compliance with national and EU biodiversity regulations and the definition of new, increasingly effective policies. With an evidence-based view on biodiversity and the effectiveness of greening measures, BirdWatch encourages the improvement in the communication and mutual understanding between scientists, farmers and administrative bodies.&lt;/p&gt;
-
-&lt;p&gt;The Macroecology Lab leads the work package WP4000.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Project partners&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Coordination: LUP - Luftbild Umwelt Planung GmbH (&lt;a href=&#34;https://www.lup-umwelt.de&#34; target=&#34;_blank&#34;&gt;https://www.lup-umwelt.de&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Eurac Research (&lt;a href=&#34;https://www.eurac.edu/en&#34; target=&#34;_blank&#34;&gt;https://www.eurac.edu/en&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania (&lt;a href=&#34;https://www.nma.lt&#34; target=&#34;_blank&#34;&gt;https://www.nma.lt&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;VITO Head Office (&lt;a href=&#34;https://vito.be/en&#34; target=&#34;_blank&#34;&gt;https://vito.be/en&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Sinergise laboratory for geographical information systems, Ltd. (&lt;a href=&#34;https://www.sinergise.com&#34; target=&#34;_blank&#34;&gt;https://www.sinergise.com&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Agro Digital Solutions (&lt;a href=&#34;https://www.agrodigitalsolutions.eu&#34; target=&#34;_blank&#34;&gt;https://www.agrodigitalsolutions.eu&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>DEBTs</title>
       <link>https://damariszurell.github.io/project/debts/</link>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
@@ -690,18 +766,18 @@ The ZOE project is run by an interdisciplinary consortium with expertise in geog
     </item>
     
     <item>
-      <title>BeyondSpecies</title>
-      <link>https://damariszurell.github.io/project/beyondspecies/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <title>COMECO</title>
+      <link>https://damariszurell.github.io/project/comeco/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://damariszurell.github.io/project/beyondspecies/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;BeyondSpecies - Predicting biodiversity change by integrating genetic diversity into ecological niche models&lt;/strong&gt;&lt;/p&gt;
+      <guid>https://damariszurell.github.io/project/comeco/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.wsl.ch/en/projects/comeco-1.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Combining machine learning, ecological modelling and plant morphological characteristics to develop a tool for identifying plants of Switzerland&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Biodiversity loss as a result of climate change is one of the major challenges of our time. The Museum für Naturkunde Berlin is focusing on this issue in a research network involving German, Turkish, Israeli and Armenian researchers with wide-ranging expertise, from fundamental science to policy advice. The team is investigating the influence of climate change on genetic diversity among bat species in the Anatolian-Caucasus region. The combination of genome research and ecological niche modelling means novel findings are to be expected.&lt;/p&gt;
+&lt;p&gt;Interdisciplinary project funded by the Swiss Data Science Center (ETH board, 2020-2022; awarded to Niklaus E. Zimmermann, and co-PIs Patrice Decombes, Dirk N. Karger and Damaris Zurell).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Institute:&lt;/strong&gt; Museum für Naturkunde - Leibniz Institute for Evolution and Biodiversity Science (MfN)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Cooperating partners:&lt;/strong&gt; Humboldt-Universität zu Berlin; Universität Potsdam; Istanbul Technical University; Yerevan State University; Tel-Aviv University&lt;/p&gt;
+&lt;p&gt;Recent advances in image classification have fostered the advent of user-friendly mobile apps helping amateurs to identify species from images with great potential for citizen science. These apps are working well for common species with distinct morphological features. However, they tend to perform badly for less common species and for groups of species with very similar morphological characteristics. Many Swiss plant species, for example, are not recognized well by the current apps. Here, we propose a novel approach combining machine learning-based image recognition with spatially explicit ecological and morphological meta-information for the identification of the c. 4&amp;rsquo;000 Swiss plant species from georeferenced pictures. This combination is expected to considerably improve species identification as new images are not only classified according to visual features but also with regards to ecological and geographical plausibility. This will greatly aid data acquisition by citizen scientists.&lt;/p&gt;
 </description>
     </item>
     
@@ -753,127 +829,6 @@ The ZOE project is run by an interdisciplinary consortium with expertise in geog
 &lt;ul&gt;
 &lt;li&gt;University of Aberdeen: Greta Bocedi &amp;amp; Justin Travis&lt;/li&gt;
 &lt;li&gt;University of Potsdam: Anne-Kathleen Malchow, Jette Reeg, Damaris Zurell&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>COMECO</title>
-      <link>https://damariszurell.github.io/project/comeco/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/comeco/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.wsl.ch/en/projects/comeco-1.html&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Combining machine learning, ecological modelling and plant morphological characteristics to develop a tool for identifying plants of Switzerland&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Interdisciplinary project funded by the Swiss Data Science Center (ETH board, 2020-2022; awarded to Niklaus E. Zimmermann, and co-PIs Patrice Decombes, Dirk N. Karger and Damaris Zurell).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Recent advances in image classification have fostered the advent of user-friendly mobile apps helping amateurs to identify species from images with great potential for citizen science. These apps are working well for common species with distinct morphological features. However, they tend to perform badly for less common species and for groups of species with very similar morphological characteristics. Many Swiss plant species, for example, are not recognized well by the current apps. Here, we propose a novel approach combining machine learning-based image recognition with spatially explicit ecological and morphological meta-information for the identification of the c. 4&amp;rsquo;000 Swiss plant species from georeferenced pictures. This combination is expected to considerably improve species identification as new images are not only classified according to visual features but also with regards to ecological and geographical plausibility. This will greatly aid data acquisition by citizen scientists.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Open thesis topics</title>
-      <link>https://damariszurell.github.io/extras/theses/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/extras/theses/</guid>
-      <description>
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#MSc_dispersal&#34;&gt;Intra-specific variation in dispersal: a simulation approach (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#MSc_DOM&#34;&gt;Dynamic occupancy modelling of Swiss breeding birds (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#MSc_nicheshift&#34;&gt;Climate change-induced niche shifts in North American birds (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#MSc_nicheasymmetry&#34;&gt;Climatic niche asymmetry in plants of the Americas (Master thesis)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;MSc_dispersal&#34;&gt;Intra-specific variation in dispersal: a simulation approach (Master thesis)&lt;/h2&gt;
-
-&lt;p&gt;Dispersal is a central biological process determining the movement and genetic exchange between populations, and the range dynamics of species under global change. Often dispersal is described in form of empirical dispersal kernels that summarise the observed dispersal distances over many individuals of a species. Thereby, it is important to acknowledge that species or population-level dispersal kernels are an emergent property resulting from complex interplay between movement capacity of individuals, behaviour and environment. As changes in landscape configuration affect the cost of movement, we can expect that population-level dispersal kernels vary between different landscapes.&lt;/p&gt;
-
-&lt;p&gt;In this project, we will use the individual-based modelling platform RangeShifter (and the associated R package RangeShiftR) to simulate dispersal of individuals in landscapes with different degrees of fragmentation. The thesis could focus on different aspects of dispersal, for example:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Comparison of emergent population-level dispersal kernels across different landscapes&lt;/li&gt;
-&lt;li&gt;Evolution of dispersal traits in landscapes with different degrees of fragmentation&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Starting date&lt;/strong&gt;: flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: Good understanding of R and of individual-based modelling, statistical analyses in R.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Prof. Dr. Damaris Zurell&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;MSc_DOM&#34;&gt;Dynamic occupancy modelling of Swiss breeding birds (Master thesis)&lt;/h2&gt;
-
-&lt;p&gt;Predictions of current and future species range dynamics and population trends are prerequisite for designing adequate management strategies. Dynamic occupancy models describe temporal changes in species’ occupancy based on the relationships between colonisation and extinction probabilities and environment. These are typically estimated from time series of occurrence data. Dynamic occupancy models show great promise for global change research by providing a comparably simple data-driven yet process-explicit modelling approach. Yet, several open questions remain for example regarding robust and efficient strategies for variable selection and model comparison.&lt;/p&gt;
-
-&lt;p&gt;In this project, we will analyse the occupancy dynamics of selected Swiss breeding birds for which time series of occurrence data are available since 1999. Dynamic occupancy models will be fit using maximum likelihood as well as Bayesian methods. The thesis could focus on different aspects of model building or species range dynamics, for example:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Variable selection strategies of adequate environmental predictor variables&lt;/li&gt;
-&lt;li&gt;Multi-model comparison for attributing the relative impact of climate and land use change on observed occupancy dynamics&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Starting date&lt;/strong&gt;: flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: Good understanding of R, statistical analyses in R, initial understanding of Bayesian statistics advantageous.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Prof. Dr. Damaris Zurell&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;MSc_nicheshift&#34;&gt;Climate change-induced niche shifts in North American birds (Master thesis)&lt;/h2&gt;
-
-&lt;p&gt;Over recent decades we have observed complex range shifts in diverse species groups in response to global change. As suitable climatic conditions are shifting due to global warming, so do the species. Yet, observations are often not as clear-cut and observed range shifts are slower or in a different direction than expected from the climate trajectories alone. Different reasons might be responsible for these discrepancies, including different global change drivers such as land use change, but also ecological factors such as novel or missing interspecific interactions, and adaptations.&lt;/p&gt;
-
-&lt;p&gt;The aim of this Master thesis is to disentangle these factors by comparing range shifts in geographic space versus niche shifts in environmental space. As case study, you will focus on the North American Breeding Bird Survey with annual bird counts since 1970. You will analyse whether geographic range shifts in different bird species were accompanied by niche shifts in environmental space, by niche contraction (as proxy for dispersal limitation) or by niche expansion (as proxy for adaptation and competitor release).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Starting date&lt;/strong&gt;: flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: Good understanding of R, data handling and analyses in R. Experience with spatial data in R and macroecological analyses.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Prof. Dr. Damaris Zurell&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;MSc_nicheasymmetry&#34;&gt;Climatic niche asymmetry in plants of the Americas (Master thesis)&lt;/h2&gt;
-
-&lt;p&gt;It is generally assumed that abiotic stress for a species increases towards the cold end of its climatic niche whereas biotic stress increases towards the warm end of its climate niche. Correspondingly, the asymmetric abiotic stress limitation hypothesis predicts that asymmetry in the realised niche of species should be highest in high latitude and high altitude species.&lt;/p&gt;
-
-&lt;p&gt;In this thesis, you will test for abiotic stress, in particular temperature stress, in plant species of the Americas. Distribution data are available from BIEN (Botanical Information and Ecology Network). You will fit species distribution models for different plant species and assess niche asymmetry. Niche shapes will be related to plant functional and geographic traits.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Starting date&lt;/strong&gt;: flexible.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: Good understanding of R, data handling and analyses in R. Experience with spatial data in R, macroecological analyses and species distribution modelling.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact&lt;/strong&gt;: Prof. Dr. Damaris Zurell&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>RangeDyna</title>
-      <link>https://damariszurell.github.io/project/rangedyna/</link>
-      <pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://damariszurell.github.io/project/rangedyna/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Moving from pattern towards process for improved forecasts of species range dynamics&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This exchange project (2019-2020) is supported by the DAAD (Grant to Damaris Zurell) and the University of Melbourne (Grant to Gurutzeta Guillera-Arroita)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Forecasts of where species are likely to occur in the future are important for informed species management. Predictions help in conserving populations that may otherwise be lost, or detecting invasive or harmful species that might otherwise be overlooked. However, the correlative species distribution models (SDMs) most commonly used to generate these forecasts have well-known limitations that may make them unreliable. Using both real data (Swiss breeding bird survey records for &amp;gt;170 species) and simulated datasets, we will test whether alternative models that explicitly describe dynamics and incorporate key ecological processes can improve forecasts of species ranges. We will first focus on occupancy dynamic models (ODMs), which show much promise but have not been tested against other approaches. We will then extend our analyses to consider more complex models that require additional ecological knowledge (e.g. information about dispersal, biotic interactions and/or demography). Outputs from correlative SDMs are currently used to inform a range of decisions, including whether to list a species as globally threatened. We will assess outputs from alternative models, asking whether any are better able to correctly guide these decisions. We will provide practical guidelines for methods that prove suitable, making them accessible for typical users.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Gurutzeta Guillera-Arroita, Jane Elith, Natalie Briscoe, Univ. Melbourne, Australia&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

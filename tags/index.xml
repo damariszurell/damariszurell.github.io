@@ -39,5 +39,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>academic</title>
+      <link>https://damariszurell.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://damariszurell.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://damariszurell.github.io/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://damariszurell.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
